@@ -1,0 +1,2183 @@
+<html itemscope="" itemtype="https://schema.org/Webpage" lang="es-ES" class="v7-no-js"><head>
+    
+
+
+<meta name="googlebot" content="index">
+<meta name="robots" content="index, follow">
+<meta name="robots" content="snippet">
+<meta name="googlebot-news" content="snippet">
+<meta name="robots" content="archive">
+
+<meta charset="utf-8">
+<title>VOLOTEA |  Vuelos baratos, ofertas y billetes de avión a ciudades de toda Europa.</title>
+<meta name="title" content="VOLOTEA |  Vuelos baratos, ofertas y billetes de avión a ciudades de toda Europa.">
+<meta lang="es" name="description" content="WEB OFICIAL VOLOTEA. Vuelos baratos y billetes de avion a ciudades europeas. Reservas online. Vuelos directos, descuentos, ofertas, familias, grupos. La aerolínea para viajar a ciudades de Europa mediante vuelos directos a precios muy competitivos. ¡Dibujamos nuevas líneas!">
+<meta lang="es" name="keywords" content="vuelos baratos,vuelos bajo coste,vuelos baratos españa,vuelos baratos italia,vuelos baratos francia,vuelos a españa,vuelos a italia,vuelos a francia,vuelo a venecia,vuelos baratos venecia,ofertas vuelos,ofertas venecia">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta property="og:title" content="VOLOTEA |  Vuelos baratos, ofertas y billetes de avión a ciudades de toda Europa.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.volotea.com/es/">
+<meta property="og:image" content="https://media.volotea.com/media/1013/vol_logo_300x300.png">
+<meta property="og:site_name" content="Volotea">
+<meta property="og:description" content="WEB OFICIAL VOLOTEA. Vuelos baratos y billetes de avion a ciudades europeas. Reservas online. Vuelos directos, descuentos, ofertas, familias, grupos. La aerolínea para viajar a ciudades de Europa mediante vuelos directos a precios muy competitivos. ¡Dibujamos nuevas líneas!">
+
+<meta itemprop="datePublished" content="2022-08-26">
+<meta name="date" content="11/09/2022">
+<meta property="article:modified_time" content="2022-08-26 18:36:43">
+<meta property="article:published_time" content="2022-08-26 18:36:43">
+<meta name="DC.date" scheme="W3CDTF" content="2022-08-26">
+<meta name="DC.date.issue" content="2022-08-26">
+<meta name="last-modified" content="2022-08-26">
+<meta name="pageDate" content="26082022">
+<meta name="DC.date" content="2022-08-26">
+<meta name="pageRender" content="11/09/2022 17:03:29 +00:00">
+<meta itemprop="datePublished" content="26/08/2022 18:36:43">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="geo.region" content="ES">
+<meta name="geo.position" content="40.463667;-3.74922">
+<meta name="ICBM" content="40.463667, -3.74922">
+<link rel="dns-prefetch" href="//static.volotea.com/">
+<link rel="dns-prefetch" href="//json.volotea.com/">
+<link rel="dns-prefetch" href="//book.volotea.com/">
+<link rel="dns-prefetch" href="//api.volotea.com/">
+<link rel="dns-prefetch" href="//blog-static.volotea.com/">
+<link rel="dns-prefetch" href="//cdn.cookielaw.org/">
+<link rel="dns-prefetch" href="//geolocation.onetrust.com/">
+<link rel="dns-prefetch" href="//www.googletagmanager.com/">
+<link rel="dns-prefetch" href="//maps.googleapis.com/">
+<link rel="dns-prefetch" href="//static.hotjar.com/">
+<link rel="dns-prefetch" href="//vars.hotjar.com/">
+<link rel="dns-prefetch" href="//in.hotjar.com/">
+<link rel="dns-prefetch" href="//trc-events.taboola.com/">
+<link rel="dns-prefetch" href="//7237182.collect.igodigital.com/">
+<link rel="preload" href="https://assets.volotea.com/assets/fonts/trade/trade-gothic-ltstd-condensed-regular.woff2" as="font" type="font/woff2" crossorigin="">
+<link rel="preload" href="https://assets.volotea.com/assets/fonts/trade/trade-gothic-ltstd-condensed-bold.woff2" as="font" type="font/woff2" crossorigin="">
+<link rel="preload" href="https://assets.volotea.com/assets/fonts/v7-icons/v7-icons-webfont.woff2" as="font" type="font/woff2" crossorigin="">
+<link rel="preload" href="https://assets.volotea.com/assets/fonts/trade/trade-gothic-ltstd-bold.woff2" as="font" type="font/woff2" crossorigin="">
+<link rel="preload" href="https://assets.volotea.com/assets/fonts/trade/trade-gothic-ltstd-regular.woff2" as="font" type="font/woff2" crossorigin="">
+<link rel="preload" href="https://assets.volotea.com/assets/fonts/google/robotocondensed/v18/roboto-condensed-regular.woff2" as="font" type="font/woff2" crossorigin="">
+<link rel="preload" href="https://assets.volotea.com/assets/fonts/google/robotocondensed/v18/roboto-condensed-bold.woff2" as="font" type="font/woff2" crossorigin="">
+
+<meta name="Author" content="VOLOTEA AIRLINES">
+<meta name="DC.title" content="VOLOTEA - Vuelos baratos, ofertas y billetes de avión a Europa">
+<link rel="alternate" hreflang="en-GB" href="https://www.volotea.com/en/">
+<link rel="alternate" hreflang="fr-FR" href="https://www.volotea.com/fr/">
+<link rel="alternate" hreflang="it-IT" href="https://www.volotea.com/it/">
+<link rel="alternate" hreflang="de-DE" href="https://www.volotea.com/de/">
+<link rel="alternate" hreflang="el-GR" href="https://www.volotea.com/el/">
+<link rel="alternate" hreflang="pt-PT" href="https://www.volotea.com/pt/">
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
+<link rel="image_src" ref="http://media.volotea.com/81547/vol_logo_300x300.png">
+<meta name="product-image" content="https://media.volotea.com/media/1013/vol_logo_300x300.png">
+<meta itemprop="thumbnailUrl" content="https://media.volotea.com/media/1013/vol_logo_300x300.png">
+<link rel="icon" href="//media.volotea.com/media/2224/favicon.ico" type="image/x-icon">
+<meta name="DC.creator" content="VOLOTEA">
+<meta name="DC.publisher" content="VOLOTEA">
+<meta property="fb:admins" content="914721255283442">
+<meta property="fb:pages" content="914721255283442">
+<link rel="me" href="//www.youtube.com/user/Volotea">
+<link rel="me" href="//www.facebook.com/Volotea">
+<link rel="me" href="//twitter.com/volotea_es">
+<link rel="me" href="//www.pinterest.com/volotea/">
+<link rel="apple-touch-icon" sizes="120x120" href="//www.volotea.com/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="152x152" href="//www.volotea.com/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="120x120-precomposed" href="//www.volotea.com/apple-touch-icon-120x120-precomposed.png">
+<link rel="apple-touch-icon" sizes="152x152-precomposed" href="//www.volotea.com/apple-touch-icon-152x152-precomposed.png">
+<meta name="msvalidate.01" content="CC65C025687800C8B80D0563ADC59D6F">
+<meta name="facebook-domain-verification" content="p7oxujfrg5yns829m42tkeslv16knz">
+<!-- Sales Script --> 
+<!-- Start Tradedoubler Landing Page Tag Insert on all landing pages to handle first party cookie-->
+<script type="text/plain" async="" src="https://www.googletagmanager.com/gtag/js?id=G-BKLW37ZYQM&amp;l=dataLayer&amp;cx=c" class="optanon-category-C0003 "></script><script type="text/plain" async="" src="https://www.google-analytics.com/analytics.js" class="optanon-category-C0002-C0003 "></script><script type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion_async.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://cdn.taboola.com/libtrc/unip/1164270/tfa.js"></script><script type="text/plain" async="" src="https://static.criteo.net/js/ld/ld.js" class="optanon-category-C0004 "></script><script gtm="GTM-PHF35LV" type="text/plain" async="" src="https://www.google-analytics.com/gtm/optimize.js?id=OPT-N49WS7S" class="optanon-category-C0003 "></script><script type="text/plain" src="https://connect.facebook.net/en_US/sdk.js?hash=e8446dd2b4d8ed91d6f033797a12ec61&amp;ua=modern_es6" async="" crossorigin="anonymous" class="optanon-category-C0003 "></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PHF35LV"></script><script async="" src="https://svht.tradedoubler.com/tr_sdk.js"></script><script language="JavaScript">
+        (function(i,s,o,g,r,a,m){i['TDConversionObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script', 'https://svht.tradedoubler.com/tr_sdk.js', 'tdconv');
+ </script>
+<!-- End Tradedoubler tag-->
+<!-- Safari 15 header colors -->
+<meta name="theme-color" content="#DAD3D3" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#452325" media="(prefers-color-scheme: dark)">
+<link rel="canonical" href="https://www.volotea.com/es/">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+
+
+
+    <!--------------------Meta Tags End---------------->
+    
+    <!--------------------Sitemap Link End------------->
+    
+
+
+        <link rel="icon" href="https://media.volotea.com/media/2224/favicon.ico">
+        <link rel="apple-touch-icon" href="https://media.volotea.com/media/2223/apple-icon-72x72.png">
+
+
+<link href="https://assets.volotea.com/assets/angular/prod.35b675577bd76159.bundle.css" rel="stylesheet">
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB4ni_wZ3CeM7b6ZN_lqAoY_Lpa5L4eJV4&amp;libraries=geometry"></script>
+
+    <base href="https://www.volotea.com/es/">
+    <script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/50/4/intl/es_419/common.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/50/4/intl/es_419/util.js"></script><script src="https://cdn.cookielaw.org/scripttemplates/6.38.0/otBannerSdk.js" async="" type="text/javascript"></script><script type="text/javascript" src="//www.volotea.com/Assets/ThirdPartyJs/nl-escalation-adapter.js"></script><script type="text/javascript" src="//www.volotea.com/Assets/ThirdPartyJs/hyperchatbot.js"></script><script type="text/javascript" src="//www.volotea.com/Assets/ThirdPartyJs/responsivevoice.js"></script><script type="text/javascript" id="ichatbot-sdk-script" src="https://sdk.inbenta.io/chatbot/1.65/inbenta-chatbot-sdk.js"></script><meta http-equiv="origin-trial" content="A7bG5hJ4XpMV5a3V1wwAR0PalkFSxLOZeL9D/YBYdupYUIgUgGhfVJ1zBFOqGybb7gRhswfJ+AmO7S2rNK2IOwkAAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjY5NzY2Mzk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A7bG5hJ4XpMV5a3V1wwAR0PalkFSxLOZeL9D/YBYdupYUIgUgGhfVJ1zBFOqGybb7gRhswfJ+AmO7S2rNK2IOwkAAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjY5NzY2Mzk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script async="" src="https://static.hotjar.com/c/hotjar-1574258.js?sv=6"></script><script async="" src="https://client.lunio.ai/3H32klVuACpm5ln1KPB854RszMbAT2tnbF8cFwvc.js"></script><style>#inbenta-bot-sdk { opacity: 0; }</style></head><body class=""><app-sentry data-service-environment="pro" data-branch="XX-XXXX"></app-sentry>
+    <!-- Google Tag Manager -->
+
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PHF35LV');</script>
+<!-- End Google Tag Manager -->
+    <script>
+        dataLayer = [{}];
+    </script>
+
+    <!-- OneTrust Cookies Consent Notice start for .volotea.com -->
+    <script type="text/javascript" src="https://cdn.cookielaw.org/consent/215b6805-a1ea-4d23-b9c3-5cd9a8f2c9e7/OtAutoBlock.js"></script>
+    <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-document-language="true" type="text/javascript" charset="UTF-8" data-domain-script="215b6805-a1ea-4d23-b9c3-5cd9a8f2c9e7"></script>
+    <!-- OneTrust Cookies Consent Notice end for .volotea.com -->
+
+
+    
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PHF35LV"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!-----------------------Alert Widget End------------------>
+    <div id="main" class="v7-page-home || v7-wrapper v7-wrapper--white" style="padding-top: 0px;">
+        <app-icons-sprite-svg-wrapper></app-icons-sprite-svg-wrapper>
+        <app-nav-alerts-wrapper></app-nav-alerts-wrapper>
+            <div class="v7-menu-wrap">
+                
+          <div id="alertPopUp" class="v7-informer--top v7-informer--alert v7-u-zlittle" style="background-color: #452325;">
+            <div class="v7-informer__inner">
+                <p class="v7-informer__text v7-u-color-white">Descubre más sobre nuestra nueva política de equipaje,  <a href="/es/equipaje/" title="" target="_blank">aquí.</a></p>
+                <button class="v7-informer__close || v7-i v7-i--xxxs v7-i--cross" onclick="hideAlertsBox();"></button>
+            </div>
+        </div>    
+
+
+                <nav class="v7-nav-top" itemscope="" itemtype="http://schema.org/Airline">
+                    
+        <ul class="v7-nav-top__list">
+                <li class="v7-nav-top__item">
+                    <a href="/es/tu-reserva/check-in-online/" class=" v7-nav-top__link || v7-link">
+	                    <span itemprop="name department hasOfferCatalog ">Check-in online</span>
+                    </a>
+                </li>
+                <li class="v7-nav-top__item">
+                    <a href="/es/estado-de-tu-vuelo/" class=" v7-nav-top__link || v7-link">
+	                    <span itemprop="name department hasOfferCatalog ">Estado de tu vuelo</span>
+                    </a>
+                </li>
+                <li class="v7-nav-top__item">
+                    <a href="/es/agencias/" class=" v7-nav-top__link || v7-link">
+	                    <span itemprop="name department hasOfferCatalog ">Agencias de viajes</span>
+                    </a>
+                </li>
+                <li class="v7-nav-top__item">
+                    <a href="https://groups.volotea.com/index.php" class=" v7-nav-top__link || v7-link" target="&quot;_blank&quot;">
+	                    <span itemprop="name department hasOfferCatalog ">Grupos</span>
+                    </a>
+                </li>
+        </ul>
+
+     
+                    <!-----------------------Top left menu Widget End------------------>
+                    
+    <ul class="v7-nav-top__list v7-nav-top__list--right">
+                <li class="v7-nav-top__item">
+                    <a href="/es/informacion/" class=" v7-nav-top__link v7-nav-top__link--state || v7-link">
+                        Información antes de viajar
+                        <i class="v7-i-svg v7-i-svg--xxs v7-i--vmiddle || v7-u-color-brand test">
+                            <svg class="v7-i-svg__src">
+                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.volotea.com/assets/img/sprite.svg#svg-notification"></use>
+                            </svg>
+                        </i>
+                    </a>
+                </li>
+
+                <li class="v7-nav-top__item">
+                    <span class="v7-nav-top__link v7-nav-top__link--help || v7-link">
+                        Ayuda
+                        <i class="v7-nav-top__arrow v7-i-svg v7-i-svg--xxxs">
+                            <svg class="v7-i-svg__src">
+                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.volotea.com/assets/img/sprite.svg#svg-down-arrow"></use>
+                            </svg>
+                        </i>
+                        <div class="v7-menu-layer v7-menu-layer--help" id="js-menu-layer-help">
+    <div class="v7-menu-layer__header">
+        <i class="v7-i v7-i--xxxs v7-i--prev-arrow || v7-u-color-dark-60"></i>
+        <h2 class="v7-main-title">
+            Ayuda
+        </h2>
+    </div>  
+        
+
+            <div class="v7-menu-layer__item v7-menu-layer__item--border-r v7-menu-layer__item--75" itemscope="" itemtype="http://schema.org/Service">
+                                
+    
+        
+               
+
+        <script>
+            var umbracoVarHelpSearcher = {
+                placeHolder: '&#191;En qu&#233; podemos ayudarte?',
+                resultsIconClass: 'v7-i--chat',
+                helpMenuMode: 'False',
+                customerCareURL: '/es/contacto/',
+                showAllFAQSLabel: 'ver todos los resultados de',
+                showFewFAQSLabel: 'ver menos resultados de',
+                showAllFAQS: 'False',
+                faqsResultsHeight: '0px',
+                autoCompleteEndpointURL: '/api/v1/customercare/autocomplete?culture=',
+                faqEndpointURL: '/api/v1/customercare/FAQ?faqId={faqId}&amp;culture={culture}',
+                currentCulture: 'es-ES',
+            }
+            document.addEventListener('DOMContentLoaded',
+                function () {
+                    if (typeof customerCare !== 'undefined') { customerCare.init(umbracoVarHelpSearcher); }
+                },
+                false);
+        </script>
+        <div class="v7-help-search">
+            <div class="container">
+                <div class="row">
+                    <div [class]="False ? '' : (!isCategoryClicked ? 'col-xs-12 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3' : 'col-xs-12')">
+                        <div class="v7-help-search">
+                            <div class="v7-help-search__input || v7-input-text v7-input-text--xl v7-input-text--light v7-input-text--outer | v7-is-loading">
+                                <input id="input-text--2-1b-cs" type="text" placeholder="¿En qué podemos ayudarte?" class="v7-input-text__input || v7-js-help-search-input">
+                                <label for="input-text--2-1b-cs" class="v7-input-text__label">
+                                    <i class="v7-i-svg v7-i-svg--xxs">
+                                        <svg class="v7-i-svg__src">
+                                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.volotea.com/assets/img/sprite.svg#svg-search"></use>
+                                        </svg>
+                                    </i>
+                                </label>
+                            </div>
+                            <div class="v7-help-search__results || v7-box v7-box--help-results">
+                                <div id="searcher-results-display-cs" style="overflow-y:auto"></div>
+                                <div id="div_faq_footer" style="display:none" class="v7-box__inner || v7-flex">
+                                    <a id="a_footer_link" class="v7-link v7-link--sm || v7-flex__right"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+        
+
+
+
+                                
+    
+        
+               
+
+            <div class="v7-menu-layer__stitle">
+                <h3 class="v7-strapline-title v7-strapline-title--sm">
+                    LO MÁS BUSCADO
+                </h3>
+            </div>
+        <ul class="v7-menu-layer__list v7-menu-layer__list--suggest || row row--flex">
+
+                        <li class="v7-menu-layer__litem v7-menu-layer__litem--atop || col-md-6">
+                            <a href="https://www.volotea.com/es/restricciones-sanitarias-de-entrada/" title="Documentación de viaje y Restricciones de entrada" class=" v7-menu-layer__llink">
+                                <i class="v7-btn-circle v7-btn-circle--md v7-btn-circle--light-brand v7-flex v7-i-svg v7-i-svg--xs v7-u-color-brand">
+                                    <svg class="v7-i-svg__src">
+                                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.volotea.com/assets/img/sprite.svg#svg-passwallet"></use>
+                                    </svg>
+                                </i>
+
+                                <div>
+                                    <h4 class="v7-sub-title v7-sub-title--sm">
+                                        <strong> Documentación de viaje y Restricciones de entrada </strong>
+                                    </h4>
+                                        <p class="v7-menu-layer__p">
+                                            De acuerdo con las nuevas medidas sanitarias para incrementar la seguridad de los pasajeros, las autoridades públicas exigen documentación adicional para la entrada en el país correspondiente.
+                                        </p>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="v7-menu-layer__litem v7-menu-layer__litem--atop || col-md-6">
+                            <a href="/es/previousequipaje/" title="Información de equipajes" class=" v7-menu-layer__llink">
+                                <i class="v7-btn-circle v7-btn-circle--md v7-btn-circle--light-brand v7-flex v7-i-svg v7-i-svg--xs v7-u-color-brand">
+                                    <svg class="v7-i-svg__src">
+                                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.volotea.com/assets/img/sprite.svg#svg-suitcase"></use>
+                                    </svg>
+                                </i>
+
+                                <div>
+                                    <h4 class="v7-sub-title v7-sub-title--sm">
+                                        <strong> Información de equipajes </strong>
+                                    </h4>
+                                        <p class="v7-menu-layer__p">
+                                            Cuantas piezas de mano puedes llevar, cómo añadir una maleta...
+                                        </p>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="v7-menu-layer__litem v7-menu-layer__litem--atop || col-md-6">
+                            <a href="/es/tu-reserva/embarque-prioritario/" title="Embarque Prioritario" class=" v7-menu-layer__llink">
+                                <i class="v7-btn-circle v7-btn-circle--md v7-btn-circle--light-brand v7-flex v7-i-svg v7-i-svg--xs v7-u-color-brand">
+                                    <svg class="v7-i-svg__src">
+                                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.volotea.com/assets/img/sprite.svg#svg-passengers"></use>
+                                    </svg>
+                                </i>
+
+                                <div>
+                                    <h4 class="v7-sub-title v7-sub-title--sm">
+                                        <strong> Embarque Prioritario </strong>
+                                    </h4>
+                                        <p class="v7-menu-layer__p">
+                                            Todo lo que tienes que saber sobre el servicio de Embarque Prioritario
+                                        </p>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="v7-menu-layer__litem v7-menu-layer__litem--atop || col-md-6">
+                            <a href="/es/contacto/#como-puedo-realizar-el-checkin-on-line--189" title="Check-in y Tarjetas de embarque" class=" v7-menu-layer__llink">
+                                <i class="v7-btn-circle v7-btn-circle--md v7-btn-circle--light-brand v7-flex v7-i-svg v7-i-svg--xs v7-u-color-brand">
+                                    <svg class="v7-i-svg__src">
+                                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.volotea.com/assets/img/sprite.svg#svg-boarding-passes"></use>
+                                    </svg>
+                                </i>
+
+                                <div>
+                                    <h4 class="v7-sub-title v7-sub-title--sm">
+                                        <strong> Check-in y Tarjetas de embarque </strong>
+                                    </h4>
+                                        <p class="v7-menu-layer__p">
+                                            ¿Cómo puedo realizar el check-in on line? Realiza el check-in on line en 3 sencillos pasos, desde tu ordenador o tablet.
+                                        </p>
+                                </div>
+                            </a>
+                        </li>
+        </ul>
+
+
+
+        
+
+
+
+                                
+    
+        
+               
+
+        <div class="v7-menu-layer__more-help" style="">
+            <div class="v7-menu-layer__stitle">
+                    <h3 class="v7-strapline-title v7-strapline-title--sm">
+                        ¿NO ENCUENTRAS LO QUE BUSCAS?
+                    </h3>
+            </div>
+
+
+                                    <a href="#open-chatbot" title="Pregúntanos por chat" class="v7-menu-layer__btn || v7-btn || v7-flex__item v7-flex__item--bottom v7-flex--block  "> Pregúntanos por chat</a>
+                                    <a href="/es/contacto/" title="Visita el centro de ayuda" class="v7-menu-layer__btn || v7-btn v7-btn--border v7-btn--secondary || v7-flex__item v7-flex__item--bottom v7-flex--block  "> Visita el centro de ayuda</a>
+        </div>
+
+
+        
+
+
+
+            </div>
+            <div class="v7-menu-layer__item v7-menu-layer__item--25">
+                                
+    
+        
+               
+
+            <div class="v7-menu-layer__stitle || v7-flex">
+                <h3 class="v7-strapline-title v7-strapline-title--sm">
+                    ACCIONES RELEVANTES
+                </h3>
+            </div>
+        <ul class="v7-menu-layer__list v7-menu-layer__list--border">
+                        <li class="v7-menu-layer__litem">
+                                <a href="/es/estado-de-tu-vuelo/" class="v7-menu-layer__llink " title="Estado de tu vuelo">
+                                    <i class="v7-i v7-i--departure v7-i--xxs || v7-u-color-brand"></i>
+                                    <p class="v7-menu-layer__p">
+                                        Estado de tu vuelo
+                                    </p>
+                                </a>
+                        </li>
+                        <li class="v7-menu-layer__litem">
+                                <a href="/es/tu-reserva/reenviar-confirmacion/" class="v7-menu-layer__llink " title="Reenviar e-mail de confirmación">
+                                    <i class="v7-i v7-i--curved-arrow v7-i--xxs || v7-u-color-brand"></i>
+                                    <p class="v7-menu-layer__p">
+                                        Reenviar e-mail de confirmación
+                                    </p>
+                                </a>
+                        </li>
+                        <li class="v7-menu-layer__litem">
+                                <a href="/es/tu-reserva/gestionar-factura/" class="v7-menu-layer__llink " title="Solicitar factura de compra">
+                                    <i class="v7-i v7-i--invoice v7-i--xxs || v7-u-color-brand"></i>
+                                    <p class="v7-menu-layer__p">
+                                        Solicitar factura de compra
+                                    </p>
+                                </a>
+                        </li>
+        </ul>
+
+
+
+        
+
+
+
+                                
+    
+        
+               
+
+            <div class="v7-menu-layer__stitle || v7-u-mt-20 v7-flex" itemscope="" itemtype="http://schema.org/ServiceChannel">
+                <h3 class="v7-strapline-title v7-strapline-title--sm">
+                    ATENCIÓN AL CLIENTE
+                </h3>
+            </div>
+        <ul class="v7-menu-layer__list v7-menu-layer__list--legal" itemscope="" itemtype="http://schema.org/ServiceChannel">
+                    <li class="v7-menu-layer__litem">
+                        <a itemprop="serviceUrl" class="v7-link v7-link--sm" href="/es/condiciones-legales/condiciones-de-transporte/" title="Condiciones de transporte"><span itemprop="name providesService">Condiciones de transporte</span></a>
+                    </li>
+                    <li class="v7-menu-layer__litem">
+                        <a itemprop="serviceUrl" class="v7-link v7-link--sm" href="/es/tarifas/" title="Tabla de tarifas"><span itemprop="name providesService">Tabla de tarifas</span></a>
+                    </li>
+                    <li class="v7-menu-layer__litem">
+                        <a itemprop="serviceUrl" class="v7-link v7-link--sm" href="https://www.volotea.com/es/contacto/#como-puedo-ponerme-en-contacto-con-volotea--84" title="Contacto"><span itemprop="name providesService">Contacto</span></a>
+                    </li>
+        </ul>
+
+
+        
+
+
+
+            </div>
+
+</div>
+
+
+                    </span>
+                </li>
+    </ul>
+
+
+    <ul class="v7-nav-top__list v7-nav-top__list--lang">
+        <li class="v7-nav-top__item">
+            <span class="v7-nav-top__link v7-nav-top__link--lang || v7-link">
+                <i class="v7-nav-top__lang-icon || v7-i v7-i--lang-es v7-i--xxs"></i>
+                <i class="v7-nav-top__arrow || v7-i v7-i--down-arrow v7-i--xxxs"></i>
+            </span>
+            <div class="v7-nav-top__tooltip || v7-tooltip v7-tooltip--lang v7-tooltip--arrow-top v7-tooltip--arrow-right" itemscope="" itemtype="http://schema.org/ServiceChannel">
+                <ul class="v7-tooltip__list" itemprop="availableLanguage" itemscope="" itemtype="http://schema.org/Language">
+                    <li class="v7-is-active">
+                        <i class="v7-tooltip__icon || v7-i v7-i--lang-es || v7-u-color-white"></i>
+                        <a href="/es/" hreflang="es" itemprop="url sameAs mainEntityOfPage"><span itemprop="name">Español </span></a>
+                    </li>
+                    <li>
+                        <i class="v7-tooltip__icon || v7-i v7-i--lang-en || v7-u-color-white"></i>
+                        <a href="/en/" hreflang="en" itemprop="url sameAs mainEntityOfPage"><span itemprop="name">English </span></a>
+                    </li>
+                    <li>
+                        <i class="v7-tooltip__icon || v7-i v7-i--lang-it || v7-u-color-white"></i>
+                        <a href="/it/" hreflang="it" itemprop="url sameAs mainEntityOfPage"><span itemprop="name">Italiano </span></a>
+                    </li>
+                    <li>
+                        <i class="v7-tooltip__icon || v7-i v7-i--lang-fr || v7-u-color-white"></i>
+                        <a href="/fr/" hreflang="fr" itemprop="url sameAs mainEntityOfPage"><span itemprop="name">Français </span></a>
+                    </li>
+                    <li>
+                        <i class="v7-tooltip__icon || v7-i v7-i--lang-de || v7-u-color-white"></i>
+                        <a href="/de/" hreflang="de" itemprop="url sameAs mainEntityOfPage"><span itemprop="name">Deutsch </span></a>
+                    </li>
+                    <li>
+                        <i class="v7-tooltip__icon || v7-i v7-i--lang-el || v7-u-color-white"></i>
+                        <a href="/el/" hreflang="el" itemprop="url sameAs mainEntityOfPage"><span itemprop="name">Ελληνικά </span></a>
+                    </li>
+                    <li>
+                        <i class="v7-tooltip__icon || v7-i v7-i--lang-pt || v7-u-color-white"></i>
+                        <a href="/pt/" hreflang="pt" itemprop="url sameAs mainEntityOfPage"><span itemprop="name">Português </span></a>
+                    </li>
+                </ul>
+            </div>
+        </li>
+    </ul>
+
+                </nav>
+                
+<header class="v7-menu " itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+    <div class="v7-menu__inner || container">
+        <button class="v7-menu__burger || v7-js-menu-open">
+            <span class="v7-btn-burger">
+                <span></span>
+            </span>
+        </button>
+        <button title="" class="v7-menu__return || v7-i v7-i--prev-arrow v7-i--xxs"></button>
+        <a itemprop="url potentialAction mainEntityOfPage" href="/es/" title="VOLOTEA |  Vuelos baratos, ofertas y billetes de avión a ciudades de toda Europa." class="v7-menu__logo">
+            <svg class="v7-svg-logo">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.volotea.com/assets/img/sprite.svg#svg-logo"></use>
+            </svg>
+                <span class="v7-menu__baseline" itemprop="name">CONECTANDO CIUDADES VOLOTEA</span>
+        </a>
+        <nav class="v7-menu__nav">
+            <ul class="v7-t v7-t--nav">
+                            <li class="v7-t__item">
+                                <a href="javascript:;" rel="nofollow" title="Vuelos" class="v7-menu__link v7-menu__link--layer || v7-t__link v7-is-active">Vuelos</a>
+
+                                        <div class="v7-menu-layer v7-menu-layer--vuelos" id="js-menu-layer-vuelos">
+                                            
+
+
+        <div class="v7-menu-layer__item  " itemscope="" itemtype="http://schema.org/Service">
+
+                    
+    
+        
+               
+
+        <div class="v7-menu-layer__title v7-menu-layer__title--i">
+            <i class="v7-i-svg v7-i-svg--sm  v7-u-color-brand">
+                <svg class="v7-i-svg__src">
+                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.volotea.com/assets/img/sprite.svg#svg-aircraft-outline"></use>
+                </svg>
+            </i>
+
+                <h2 itemprop="name category offers serviceOutput" class="v7-sub-title v7-sub-title--sm">
+                    <strong>Ofertas de Vuelo</strong>
+                </h2>
+        </div>
+            <p itemprop="description" class="v7-menu-layer__p || v7-u-mb-20">
+                Vuela sin escalas y al mejor precio. En Volotea conectamos ciudades de toda Europa y lo hacemos con estilo propio. ¡Descúbrenos!
+            </p>
+                                <a itemprop="url" href="/es/ofertas-vuelos/" title="Ver las mejores ofertas de vuelo" class="v7-menu-layer__btn v7-flex__bottom || v7-btn || v7-flex__item v7-flex__item--bottom v7-flex--block  "> Ver las mejores ofertas de vuelo</a>
+
+
+        
+
+
+
+
+        </div>
+        <div class="v7-menu-layer__item  " itemscope="" itemtype="http://schema.org/Service">
+
+                    
+    
+        
+               
+
+            <div class="v7-menu-layer__stitle || v7-flex">
+                <h3 class="v7-strapline-title v7-strapline-title--sm">
+                    Y SI YA TIENES TU VUELO...
+                </h3>
+            </div>
+        <ul class="v7-menu-layer__list v7-menu-layer__list--border">
+                        <li class="v7-menu-layer__litem">
+                                <a href="https://hotels.volotea.com/?label=pagenavtab-link-942942-click" class="v7-menu-layer__llink " title="Reserva tu hotel" target="&quot;_blank&quot;" rel="noopener">
+                                    <i class="v7-i v7-i--bed v7-i--xs || v7-u-color-brand"></i>
+                                    <p class="v7-menu-layer__p">
+                                        Reserva tu hotel
+                                    </p>
+                                </a>
+                        </li>
+                        <li class="v7-menu-layer__litem">
+                                <a href="https://coches.volotea.com/?adplat=servicestab&amp;adcamp=homepage&amp;preflang=es" class="v7-menu-layer__llink " title="Alquila un coche" target="&quot;_blank&quot;" rel="noopener">
+                                    <i class="v7-i v7-i--car v7-i--xs || v7-u-color-brand"></i>
+                                    <p class="v7-menu-layer__p">
+                                        Alquila un coche
+                                    </p>
+                                </a>
+                        </li>
+        </ul>
+
+
+
+        
+
+
+
+
+        </div>
+        <div class="v7-menu-layer__item  " itemscope="" itemtype="http://schema.org/Service">
+
+                    
+    
+        
+               
+
+        <div class="v7-menu-layer__title v7-menu-layer__title--i">
+            <i class="v7-i-svg v7-i-svg--sm  v7-u-color-brand">
+                <svg class="v7-i-svg__src">
+                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.volotea.com/assets/img/sprite.svg#svg-checkin"></use>
+                </svg>
+            </i>
+
+                <h2 itemprop="name category offers serviceOutput" class="v7-sub-title v7-sub-title--sm">
+                    <strong>Estado de tu vuelo</strong>
+                </h2>
+        </div>
+            <p itemprop="description" class="v7-menu-layer__p || v7-u-mb-20">
+                Consulta el estado de tu vuelo Volotea en tiempo real. Toda la información a tu alcance en todo momento, suscríbete y sigue en vivo la ruta de tu vuelo.
+            </p>
+                                <a itemprop="url" href="/es/estado-de-tu-vuelo/" title="Ver el estado de tu vuelo" class="v7-menu-layer__btn v7-flex__bottom || v7-btn v7-btn--border v7-btn--secondary || v7-flex__item v7-flex__item--bottom v7-flex--block  "> Ver el estado de tu vuelo</a>
+
+
+        
+
+
+
+
+        </div>
+        <div class="v7-menu-layer__item  " itemscope="" itemtype="http://schema.org/Service">
+
+                    
+    
+        
+               
+
+            <div class="v7-menu-layer__stitle || v7-flex">
+                <h3 class="v7-strapline-title v7-strapline-title--sm">
+                    RESERVAS ESPECIALES
+                </h3>
+            </div>
+        <ul class="v7-menu-layer__list">
+            <li class="v7-menu-layer__litem">
+
+                    <a href="https://groups.volotea.com/index.php?culture=es-es" rel="nofollow" target="&quot;_blank&quot;" class="v7-menu-layer__llink ">
+                        <i class="v7-btn-circle v7-btn-circle--md v7-btn-circle--light v7-i-svg v7-i-svg--xs v7-flex">
+                            <svg class="v7-i-svg__src">
+                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.volotea.com/assets/img/sprite.svg#svg-groups"></use>
+                            </svg>
+                        </i>
+                        <div>
+                            <h4>
+                                <span class="v7-link">
+                                    Grupos
+                                </span>
+                            </h4>
+                                <p class="v7-menu-layer__p">
+                                    Tarifas especiales a partir de 10 pasajeros.
+                                </p>
+                        </div>
+                    </a>
+
+
+            </li>
+            <li class="v7-menu-layer__litem">
+
+                    <a href="/es/agencias/" rel="nofollow" class="v7-menu-layer__llink ">
+                        <i class="v7-btn-circle v7-btn-circle--md v7-btn-circle--light v7-i-svg v7-i-svg--xs v7-flex">
+                            <svg class="v7-i-svg__src">
+                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.volotea.com/assets/img/sprite.svg#svg-travel-documents"></use>
+                            </svg>
+                        </i>
+                        <div>
+                            <h4>
+                                <span class="v7-link">
+                                    Agencias de viaje
+                                </span>
+                            </h4>
+                                <p class="v7-menu-layer__p">
+                                    Tarifas bajas y atención personalizada para agencias.
+                                </p>
+                        </div>
+                    </a>
+
+
+            </li>
+        </ul>
+
+
+        
+
+
+
+
+        </div>
+
+
+
+                                        </div>
+                            </li>
+                            <li class="v7-t__item">
+                                <a href="javascript:;" rel="nofollow" title="Tu Reserva" class="v7-menu__link v7-menu__link--layer || v7-t__link ">Tu Reserva</a>
+
+                                        <div class="v7-menu-layer v7-menu-layer--tu reserva" id="js-menu-layer-tu reserva">
+                                            
+
+
+        <div class="v7-menu-layer__item  " itemscope="" itemtype="http://schema.org/Service">
+
+                    
+    
+        
+               
+
+        <div class="v7-menu-layer__title v7-menu-layer__title--i">
+            <i class="v7-i-svg v7-i-svg--sm  v7-u-color-brand">
+                <svg class="v7-i-svg__src">
+                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.volotea.com/assets/img/sprite.svg#svg-boarding-passes"></use>
+                </svg>
+            </i>
+
+                <h2 itemprop="name category offers serviceOutput" class="v7-sub-title v7-sub-title--sm">
+                    <strong>Check-in online</strong>
+                </h2>
+        </div>
+            <p itemprop="description" class="v7-menu-layer__p || v7-u-mb-20">
+                Realiza el check-in online. Solo necesitas el número de confirmación de tu reserva y el apellido o e-mail de contacto.
+            </p>
+                                <a itemprop="url" href="/es/tu-reserva/check-in-online/" title="Obtén tus tarjetas de embarque" class="v7-menu-layer__btn v7-flex__bottom || v7-btn || v7-flex__item v7-flex__item--bottom v7-flex--block  "> Obtén tus tarjetas de embarque</a>
+
+
+        
+
+
+
+
+        </div>
+        <div class="v7-menu-layer__item  " itemscope="" itemtype="http://schema.org/Service">
+
+                    
+    
+        
+               
+
+            <div class="v7-menu-layer__stitle || v7-flex">
+                <h3 class="v7-strapline-title v7-strapline-title--sm">
+                    ¿YA LO TIENES TODO?
+                </h3>
+            </div>
+        <ul class="v7-menu-layer__list v7-menu-layer__list--border">
+                        <li class="v7-menu-layer__litem">
+                                <a href="/es/tu-reserva/asignar-asientos/" class="v7-menu-layer__llink " title="Elige tu asiento">
+                                    <i class="v7-i v7-i--seat v7-i--xs || v7-u-color-brand"></i>
+                                    <p class="v7-menu-layer__p">
+                                        Elige tu asiento
+                                    </p>
+                                </a>
+                        </li>
+                        <li class="v7-menu-layer__litem">
+                                <a href="/es/tu-reserva/embarque-prioritario/" class="v7-menu-layer__llink " title="Embarque prioritario">
+                                    <i class="v7-i v7-i--priority-boarding v7-i--xs || v7-u-color-brand"></i>
+                                    <p class="v7-menu-layer__p">
+                                        Embarque prioritario
+                                    </p>
+                                </a>
+                        </li>
+                        <li class="v7-menu-layer__litem">
+                                <a href="/es/tu-reserva/anadir-equipaje/" class="v7-menu-layer__llink " title="Añadir equipaje">
+                                    <i class="v7-i v7-i--suitcase v7-i--xs || v7-u-color-brand"></i>
+                                    <p class="v7-menu-layer__p">
+                                        Añadir equipaje
+                                    </p>
+                                </a>
+                        </li>
+        </ul>
+
+
+
+        
+
+
+
+
+        </div>
+        <div class="v7-menu-layer__item  " itemscope="" itemtype="http://schema.org/Service">
+
+                    
+    
+        
+               
+
+        <div class="v7-menu-layer__title v7-menu-layer__title--i">
+            <i class="v7-i-svg v7-i-svg--sm  v7-u-color-brand">
+                <svg class="v7-i-svg__src">
+                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.volotea.com/assets/img/sprite.svg#svg-luggage-checkin"></use>
+                </svg>
+            </i>
+
+                <h2 itemprop="name category offers serviceOutput" class="v7-sub-title v7-sub-title--sm">
+                    <strong>Gestiona tu reserva</strong>
+                </h2>
+        </div>
+            <p itemprop="description" class="v7-menu-layer__p || v7-u-mb-20">
+                Descubre todos nuestros servicios en un solo clic. Es sencillo, introduce tu número de confirmación de reseva y tu apellido o tu email de contacto.
+            </p>
+                                <a itemprop="url" href="/es/tu-reserva/" title="Acceder a tu reserva" class="v7-menu-layer__btn v7-flex__bottom || v7-btn v7-btn--border v7-btn--secondary || v7-flex__item v7-flex__item--bottom v7-flex--block  "> Acceder a tu reserva</a>
+
+
+        
+
+
+
+
+        </div>
+        <div class="v7-menu-layer__item  " itemscope="" itemtype="http://schema.org/Service">
+
+                    
+    
+        
+               
+
+            <div class="v7-menu-layer__stitle || v7-flex">
+                <h3 class="v7-strapline-title v7-strapline-title--sm">
+                    Y ADEMÁS DESTACAMOS...
+                </h3>
+            </div>
+        <ul class="v7-menu-layer__list">
+            <li class="v7-menu-layer__litem">
+
+                    <a href="/es/informacion/" rel="nofollow" class="v7-menu-layer__llink ">
+                        <i class="v7-btn-circle v7-btn-circle--md v7-btn-circle--light v7-i-svg v7-i-svg--xs v7-flex">
+                            <svg class="v7-i-svg__src">
+                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.volotea.com/assets/img/sprite.svg#svg-information"></use>
+                            </svg>
+                        </i>
+                        <div>
+                            <h4>
+                                <span class="v7-link">
+                                    Antes de viajar
+                                </span>
+                            </h4>
+                                <p class="v7-menu-layer__p">
+                                    Todo lo que necesitas para empezar tu viaje
+                                </p>
+                        </div>
+                    </a>
+
+
+            </li>
+            <li class="v7-menu-layer__litem">
+
+                    <a href="/es/equipaje/" rel="nofollow" class="v7-menu-layer__llink ">
+                        <i class="v7-btn-circle v7-btn-circle--md v7-btn-circle--light v7-i-svg v7-i-svg--xs v7-flex">
+                            <svg class="v7-i-svg__src">
+                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.volotea.com/assets/img/sprite.svg#svg-company"></use>
+                            </svg>
+                        </i>
+                        <div>
+                            <h4>
+                                <span class="v7-link">
+                                    Política de equipaje
+                                </span>
+                            </h4>
+                                <p class="v7-menu-layer__p">
+                                    Conoce nuestra política de equipaje. ¡Es importante!
+                                </p>
+                        </div>
+                    </a>
+
+
+            </li>
+        </ul>
+
+
+        
+
+
+
+
+        </div>
+
+
+
+                                        </div>
+                            </li>
+                            <li class="v7-t__item">
+                                <a href="javascript:;" rel="nofollow" title="Descubre" class="v7-menu__link v7-menu__link--layer || v7-t__link ">Descubre</a>
+
+                                        <div class="v7-menu-layer v7-menu-layer--descubre" id="js-menu-layer-descubre">
+                                            
+
+
+        <div class="v7-menu-layer__item  " itemscope="" itemtype="http://schema.org/Service">
+
+                    
+    
+        
+               
+
+            <div class="v7-menu-layer__title">
+                <h2 class="v7-sub-title v7-sub-title--sm">
+                    <strong>Mapa de destinos y rutas</strong>
+                </h2>
+            </div>
+                <a href="/es/destinos/" title="Mapa de destinos y rutas">
+                        <img class="v7-u-img" src="https://media.volotea.com/media/2260/es_map.png" alt="Mapa de destinos y rutas">
+                </a>
+  
+
+        
+
+
+
+
+        </div>
+        <div class="v7-menu-layer__item  " itemscope="" itemtype="http://schema.org/Service">
+
+                    
+    
+        
+               
+
+            <div class="v7-menu-layer__stitle || v7-flex">
+                <h3 class="v7-strapline-title v7-strapline-title--sm">
+                    NUESTROS SERVICIOS MÁS POPULARES
+                </h3>
+            </div>
+        <ul class="v7-menu-layer__list v7-menu-layer__list--border">
+                        <li class="v7-menu-layer__litem">
+                                <a class="v7-menu-layer__llink " href="/es/combo/" title="Combo">
+                                    <i class="v7-i-vect v7-i-vect--xs v7-u-color-brand">
+                                        <svg class="v7-i-vect__svg | v7-svg-megavolotea">
+                                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.volotea.com/assets/img/sprite.svg#svg-combo_plus"></use>
+                                        </svg>
+                                    </i>
+                                    <p class="v7-menu-layer__p">
+                                        Combo
+                                    </p>
+                                </a>
+                        </li>
+                        <li class="v7-menu-layer__litem">
+                                <a class="v7-menu-layer__llink " href="/es/flex/" title="Flex">
+                                    <i class="v7-i-vect v7-i-vect--xs v7-u-color-brand">
+                                        <svg class="v7-i-vect__svg | v7-svg-megavolotea">
+                                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.volotea.com/assets/img/sprite.svg#svg-flex"></use>
+                                        </svg>
+                                    </i>
+                                    <p class="v7-menu-layer__p">
+                                        Flex
+                                    </p>
+                                </a>
+                        </li>
+                        <li class="v7-menu-layer__litem">
+                                <a href="/es/entretenimiento-a-bordo/" class="v7-menu-layer__llink " title="Entretenimiento a bordo">
+                                    <i class="v7-i v7-i--mobile v7-i--xs || v7-u-color-brand"></i>
+                                    <p class="v7-menu-layer__p">
+                                        Entretenimiento a bordo
+                                    </p>
+                                </a>
+                        </li>
+                        <li class="v7-menu-layer__litem">
+                                <a class="v7-menu-layer__llink " href="/es/mejor-precio/" title="Mejor precio">
+                                    <i class="v7-i-vect v7-i-vect--xs v7-u-color-brand">
+                                        <svg class="v7-i-vect__svg | v7-svg-megavolotea">
+                                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.volotea.com/assets/img/sprite.svg#svg-bpg"></use>
+                                        </svg>
+                                    </i>
+                                    <p class="v7-menu-layer__p">
+                                        Mejor precio
+                                    </p>
+                                </a>
+                        </li>
+        </ul>
+
+
+
+        
+
+
+
+
+        </div>
+        <div class="v7-menu-layer__item  " itemscope="" itemtype="http://schema.org/Service">
+
+                    
+    
+        
+               
+
+        <div class="v7-menu-layer__title v7-menu-layer__title--i">
+            <i class="v7-i-svg v7-i-svg--sm  v7-u-color-brand">
+                <svg class="v7-i-svg__src">
+                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.volotea.com/assets/img/sprite.svg#svg-megavolotea"></use>
+                </svg>
+            </i>
+
+                <h2 itemprop="name category offers serviceOutput" class="v7-sub-title v7-sub-title--sm">
+                    <strong>Megavolotea</strong>
+                </h2>
+        </div>
+            <p itemprop="description" class="v7-menu-layer__p || v7-u-mb-20">
+                Por sólo 49.99€ al año ahorra en cada viaje, durante todo el año tienes acceso a tarifas más baratas, obtienes descuentos en asientos y maletas y mucho más. ¡Qué grande es ser Mega!
+            </p>
+                                <a itemprop="url" href="/es/megavolotea/" title="Empieza a ahorrar ahora" class="v7-menu-layer__btn v7-flex__bottom || v7-btn || v7-flex__item v7-flex__item--bottom v7-flex--block  "> Empieza a ahorrar ahora</a>
+
+
+        
+
+
+
+
+        </div>
+        <div class="v7-menu-layer__item  " itemscope="" itemtype="http://schema.org/Service">
+
+                    
+    
+        
+               
+
+            <div class="v7-menu-layer__stitle || v7-flex">
+                <h3 class="v7-strapline-title v7-strapline-title--sm">
+                    INSPÍRATE...
+                </h3>
+            </div>
+        <ul class="v7-menu-layer__list">
+            <li class="v7-menu-layer__litem">
+
+                <a href="https://volare.volotea.com/es" rel="nofollow" class="v7-menu-layer__llink " target="&quot;_blank&quot;">
+                    <span title="Volare Magazine" class="v7-avatar v7-avatar--md">
+                        <span class="v7-avatar__text">Volare Magazine</span>
+                        <span class="v7-avatar__img || v7-js-imagecover" data-image="https://static.volotea.com/assets/img/stations/zaz_4-3_sm.jpg" style="background-image: url(&quot;https://static.volotea.com/assets/img/stations/zaz_4-3_sm.jpg&quot;); background-size: cover; background-position: center center;"></span>
+                    </span>
+                    <div>
+                        <h4>
+                            <span class="v7-link">
+                                Volare Magazine
+                            </span>
+                        </h4>
+                            <p class="v7-menu-layer__p">
+                                Descubre los mejores rincones de nuestros destinos
+                            </p>
+                    </div>
+                </a>
+
+
+            </li>
+            <li class="v7-menu-layer__litem">
+
+                    <a href="/es/nuestros-aviones/" rel="nofollow" class="v7-menu-layer__llink ">
+                        <span title="Volar con Volotea" class="v7-avatar v7-avatar--md">
+                            <span class="v7-avatar__text">Volar con Volotea</span>
+                            <span class="v7-avatar__img || v7-js-imagecover" data-image="https://media.volotea.com/media/2395/vol_aircraft_2x.png" style="background-image: url(&quot;https://media.volotea.com/media/2395/vol_aircraft_2x.png&quot;); background-size: cover; background-position: center center;"></span>
+                        </span>
+                        <div>
+                            <h4>
+                                <span class="v7-link">
+                                    Volar con Volotea
+                                </span>
+                            </h4>
+                                <p class="v7-menu-layer__p">
+                                    ¿Quieres ver nuestros aviones por dentro?
+                                </p>
+                        </div>
+                    </a>
+
+
+            </li>
+        </ul>
+
+
+        
+
+
+
+
+        </div>
+
+
+
+                                        </div>
+                            </li>
+                            <li class="v7-t__item">
+                                <a href="javascript:;" rel="nofollow" title="Volotea" class="v7-menu__link v7-menu__link--layer || v7-t__link ">Volotea</a>
+
+                                        <div class="v7-menu-layer v7-menu-layer--volotea" id="js-menu-layer-volotea">
+                                            
+
+
+        <div class="v7-menu-layer__item  " itemscope="" itemtype="http://schema.org/Service">
+
+                    
+    
+        
+               
+
+            <div class="v7-menu-layer__title">
+                <h2 class="v7-sub-title v7-sub-title--sm">
+                    <strong>Sobre nosotros</strong>
+                </h2>
+            </div>
+                <a href="/es/sobre-volotea/" title="Sobre nosotros">
+                        <img class="v7-u-img" src="https://media.volotea.com/media/1370/volotea-employees.jpg" alt="Sobre nosotros">
+                </a>
+  
+
+        
+
+
+
+
+        </div>
+        <div class="v7-menu-layer__item  " itemscope="" itemtype="http://schema.org/Service">
+
+                    
+    
+        
+               
+
+            <div class="v7-menu-layer__stitle || v7-flex">
+                <h3 class="v7-strapline-title v7-strapline-title--sm">
+                    Y ADEMÁS...
+                </h3>
+            </div>
+        <ul class="v7-menu-layer__list">
+            <li class="v7-menu-layer__litem">
+
+                    <a href="/es/sala-de-prensa/" rel="nofollow" class="v7-menu-layer__llink ">
+                        <i class="v7-btn-circle v7-btn-circle--md v7-btn-circle--light v7-i-svg v7-i-svg--xs v7-flex">
+                            <svg class="v7-i-svg__src">
+                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.volotea.com/assets/img/sprite.svg#svg-invoice"></use>
+                            </svg>
+                        </i>
+                        <div>
+                            <h4>
+                                <span class="v7-link">
+                                    Sala de prensa
+                                </span>
+                            </h4>
+                                <p class="v7-menu-layer__p">
+                                    Nuestras últimas noticias, eventos y  ruedas de prensa.
+                                </p>
+                        </div>
+                    </a>
+
+
+            </li>
+            <li class="v7-menu-layer__litem">
+
+                    <a href="/es/contacto/" rel="nofollow" class="v7-menu-layer__llink ">
+                        <i class="v7-btn-circle v7-btn-circle--md v7-btn-circle--light v7-i-svg v7-i-svg--xs v7-flex">
+                            <svg class="v7-i-svg__src">
+                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.volotea.com/assets/img/sprite.svg#svg-agent"></use>
+                            </svg>
+                        </i>
+                        <div>
+                            <h4>
+                                <span class="v7-link">
+                                    Centro de ayuda
+                                </span>
+                            </h4>
+                                <p class="v7-menu-layer__p">
+                                    Estamos a tu disposición para lo que necesites.
+                                </p>
+                        </div>
+                    </a>
+
+
+            </li>
+        </ul>
+
+
+        
+
+
+
+
+        </div>
+        <div class="v7-menu-layer__item  " itemscope="" itemtype="http://schema.org/Service">
+
+                    
+    
+        
+               
+
+        <div class="v7-menu-layer__title v7-menu-layer__title--i">
+            <i class="v7-i-svg v7-i-svg--sm  v7-u-color-brand">
+                <svg class="v7-i-svg__src">
+                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.volotea.com/assets/img/sprite.svg#svg-family"></use>
+                </svg>
+            </i>
+
+                <h2 itemprop="name category offers serviceOutput" class="v7-sub-title v7-sub-title--sm">
+                    <strong>Trabaja con nosotros</strong>
+                </h2>
+        </div>
+            <p itemprop="description" class="v7-menu-layer__p || v7-u-mb-20">
+                Forma parte de nuestro equipo. Buscamos personas para cubrir distintas posiciones en nuestra aerolínea tanto en nuestras oficinas como en nuestras bases.
+            </p>
+                                <a itemprop="url" href="https://jobs.volotea.com/" title="Acceder a las ofertas de empleo" class="v7-menu-layer__btn v7-flex__bottom || v7-btn v7-btn--border v7-btn--secondary || v7-flex__item v7-flex__item--bottom v7-flex--block  " target="&quot;_blank&quot;" rel="noopener"> Acceder a las ofertas de empleo</a>
+
+
+        
+
+
+
+
+        </div>
+        <div class="v7-menu-layer__item  " itemscope="" itemtype="http://schema.org/Service">
+
+                    
+    
+        
+               
+
+        <div class="v7-menu-layer__title v7-menu-layer__title--i">
+            <i class="v7-i-svg v7-i-svg--sm  v7-u-color-brand">
+                <svg class="v7-i-svg__src">
+                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.volotea.com/assets/img/sprite.svg#svg-special-assistance"></use>
+                </svg>
+            </i>
+
+                <h2 itemprop="name category offers serviceOutput" class="v7-sub-title v7-sub-title--sm">
+                    <strong>Tu opinión cuenta</strong>
+                </h2>
+        </div>
+            <p itemprop="description" class="v7-menu-layer__p || v7-u-mb-20">
+                La mayoría de nuestros pasajeros nos recomienda a sus familiares y amigos. Entérate de lo que dicen sobre nosotros, y si ya nos conoces, ¡Ayúdanos a mejorar!
+            </p>
+                                <a itemprop="url" href="/es/muy-recomendada/" title="Ver opiniones sobre Volotea" class="v7-menu-layer__btn v7-flex__bottom || v7-btn || v7-flex__item v7-flex__item--bottom v7-flex--block  "> Ver opiniones sobre Volotea</a>
+
+
+        
+
+
+
+
+        </div>
+
+
+
+                                        </div>
+                            </li>
+
+            </ul>
+            <div id="megamenu-block-overlay"></div>
+        </nav>
+        <div class="v7-menu__right">
+            <login-register-wrapper></login-register-wrapper>
+        </div>
+    </div>
+</header>
+<aside id="js-menu-mobile" class="v7-menu-mobile">
+    <div class="v7-menu-mobile__overlay || v7-js-menu-close"></div>
+    <div class="v7-menu-mobile__inner" id="js-menu-inner">
+        <a itemprop="url potentialAction mainEntityOfPage" href="/es/" title="VOLOTEA |  Vuelos baratos, ofertas y billetes de avión a ciudades de toda Europa." class="v7-menu-mobile__logo">
+            <svg class="v7-svg-logo">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.volotea.com/assets/img/sprite.svg#svg-logo-solid"></use>
+            </svg>
+                <span class="v7-menu__baseline" itemprop="name">CONECTANDO CIUDADES VOLOTEA</span>
+        </a>
+        <volotea-mobile-menu></volotea-mobile-menu>
+        <button class="v7-menu-mobile__close || v7-i v7-i--cross v7-i--xxxs || v7-js-menu-close"></button>
+        <nav class="v7-menu-mobile__nav">
+            <ul class="v7-t v7-t--vertical">
+                                <li class="v7-t__item">
+                                    <a href="/es/" rel="nofollow" title="INICIO" class="v7-t__link v7-parent v7-is-active">INICIO</a>
+                                </li>
+                            <li class="v7-t__item">
+                                <a href="javascript:;" rel="nofollow" title="VUELOS" class="v7-t__link || v7-js-menu-layer-switch" data-menu-layer="js-menu-layer-vuelos-mobile">
+                                    <span class="v7-flex">
+                                        VUELOS
+                                        <i class="v7-i v7-i--down-arrow v7-i--xxs || v7-u-color-dark-40 || v7-flex__right"></i>
+                                    </span>
+                                </a>
+
+                                <ul id="ui_2_1" class="v7-menu-mobile__snav">
+                                            <li class="v7-menu-mobile__snav-item ">
+                                                <a href="/es/ofertas-vuelos/">Ofertas de Vuelo</a>
+                                            </li>
+                                            <li class="v7-menu-mobile__snav-item ">
+                                                <a href="https://hotels.volotea.com/?lang=es">Reserva tu hotel</a>
+                                            </li>
+                                            <li class="v7-menu-mobile__snav-item ">
+                                                <a href="https://coche.volotea.com/?adplat=servicestab&amp;amp;adcamp=homepage&amp;amp;preflang=es">Alquila un coche</a>
+                                            </li>
+                                            <li class="v7-menu-mobile__snav-item ">
+                                                <a href="/es/estado-de-tu-vuelo/">Estado de tu vuelo</a>
+                                            </li>
+                                            <li class="v7-menu-mobile__snav-item ">
+                                                <a href="http://groups.volotea.com" target="_blank">Grupos</a>
+                                            </li>
+                                            <li class="v7-menu-mobile__snav-item ">
+                                                <a href="/es/agencias/">Agencias de viaje</a>
+                                            </li>
+                                </ul>
+                            </li>
+                            <li class="v7-t__item">
+                                <a href="javascript:;" rel="nofollow" title="TU RESERVA" class="v7-t__link || v7-js-menu-layer-switch" data-menu-layer="js-menu-layer-tu reserva-mobile">
+                                    <span class="v7-flex">
+                                        TU RESERVA
+                                        <i class="v7-i v7-i--down-arrow v7-i--xxs || v7-u-color-dark-40 || v7-flex__right"></i>
+                                    </span>
+                                </a>
+
+                                <ul id="ui_3_2" class="v7-menu-mobile__snav">
+                                            <li class="v7-menu-mobile__snav-item ">
+                                                <a href="/es/tu-reserva/check-in-online/">Check-in online</a>
+                                            </li>
+                                            <li class="v7-menu-mobile__snav-item ">
+                                                <a href="/es/tu-reserva/asignar-asientos/">Elige tu asiento</a>
+                                            </li>
+                                            <li class="v7-menu-mobile__snav-item ">
+                                                <a href="/es/tu-reserva/embarque-prioritario/">Embarque prioritario</a>
+                                            </li>
+                                            <li class="v7-menu-mobile__snav-item ">
+                                                <a href="/es/tu-reserva/anadir-equipaje/">Añadir equipaje</a>
+                                            </li>
+                                            <li class="v7-menu-mobile__snav-item ">
+                                                <a href="/es/tu-reserva/">Gestiona tu reserva</a>
+                                            </li>
+                                            <li class="v7-menu-mobile__snav-item ">
+                                                <a href="/es/informacion/">Antes de viajar</a>
+                                            </li>
+                                            <li class="v7-menu-mobile__snav-item ">
+                                                <a href="/es/equipaje/">Política de equipaje</a>
+                                            </li>
+                                </ul>
+                            </li>
+                            <li class="v7-t__item">
+                                <a href="javascript:;" rel="nofollow" title="DESCUBRE" class="v7-t__link || v7-js-menu-layer-switch" data-menu-layer="js-menu-layer-descubre-mobile">
+                                    <span class="v7-flex">
+                                        DESCUBRE
+                                        <i class="v7-i v7-i--down-arrow v7-i--xxs || v7-u-color-dark-40 || v7-flex__right"></i>
+                                    </span>
+                                </a>
+
+                                <ul id="ui_4_3" class="v7-menu-mobile__snav">
+                                            <li class="v7-menu-mobile__snav-item ">
+                                                <a href="/es/destinos/">Mapa de destinos y rutas</a>
+                                            </li>
+                                            <li class="v7-menu-mobile__snav-item ">
+                                                <a href="/es/combo/">Combo</a>
+                                            </li>
+                                            <li class="v7-menu-mobile__snav-item ">
+                                                <a href="/es/flex/">Flex</a>
+                                            </li>
+                                            <li class="v7-menu-mobile__snav-item ">
+                                                <a href="/es/entretenimiento-a-bordo/">Entretenimiento a bordo</a>
+                                            </li>
+                                            <li class="v7-menu-mobile__snav-item ">
+                                                <a href="/es/megavolotea/">Megavolotea</a>
+                                            </li>
+                                            <li class="v7-menu-mobile__snav-item ">
+                                                <a href="/es/best-price/">Mejor precio</a>
+                                            </li>
+                                            <li class="v7-menu-mobile__snav-item ">
+                                                <a href="https://volare.volotea.com/es/">Volare Magazine</a>
+                                            </li>
+                                            <li class="v7-menu-mobile__snav-item ">
+                                                <a href="/es/nuestros-aviones/">Volar con Volotea</a>
+                                            </li>
+                                </ul>
+                            </li>
+                            <li class="v7-t__item">
+                                <a href="javascript:;" rel="nofollow" title="VOLOTEA" class="v7-t__link || v7-js-menu-layer-switch" data-menu-layer="js-menu-layer-volotea-mobile">
+                                    <span class="v7-flex">
+                                        VOLOTEA
+                                        <i class="v7-i v7-i--down-arrow v7-i--xxs || v7-u-color-dark-40 || v7-flex__right"></i>
+                                    </span>
+                                </a>
+
+                                <ul id="ui_5_4" class="v7-menu-mobile__snav">
+                                            <li class="v7-menu-mobile__snav-item ">
+                                                <a href="/es/sobre-volotea/">Sobre nosotros</a>
+                                            </li>
+                                            <li class="v7-menu-mobile__snav-item ">
+                                                <a href="/es/sala-de-prensa/">Sala de prensa</a>
+                                            </li>
+                                            <li class="v7-menu-mobile__snav-item ">
+                                                <a href="/es/contacto/">Centro de ayuda</a>
+                                            </li>
+                                            <li class="v7-menu-mobile__snav-item ">
+                                                <a href="https://jobs.volotea.com/">Trabaja con nosotros</a>
+                                            </li>
+                                            <li class="v7-menu-mobile__snav-item ">
+                                                <a href="/es/muy-recomendada/">Tu opinión cuenta</a>
+                                            </li>
+                                </ul>
+                            </li>
+            </ul>
+            
+                    <ul class="v7-menu-mobile__list || v7-u-visible-sm">
+                            <li class="v7-nav-top__item">
+                                <a href="/es/tu-reserva/check-in-online/" rel="nofollow" title="Check-in online">
+                                    Check-in online
+                                </a>
+                            </li>
+                            <li class="v7-nav-top__item">
+                                <a href="/es/estado-de-tu-vuelo/" rel="nofollow" title="Estado de tu vuelo">
+                                    Estado de tu vuelo
+                                </a>
+                            </li>
+                            <li class="v7-nav-top__item">
+                                <a href="/es/agencias/" rel="nofollow" title="Agencias de viajes">
+                                    Agencias de viajes
+                                </a>
+                            </li>
+                            <li class="v7-nav-top__item">
+                                <a href="https://groups.volotea.com/index.php" rel="nofollow" title="Grupos" target="&quot;_blank&quot;">
+                                    Grupos
+                                </a>
+                            </li>
+                    </ul>
+            <ul class="v7-menu-mobile__list v7-u-pb-50">
+                            <li>
+                                <a href="/es/informacion/">Información antes de viajar</a>
+                            </li>
+
+                        <li>
+                            <a href="/es/contacto/" rel="nofollow" title="Ayuda">Ayuda</a>
+                        </li>
+
+                <li>
+                    <a href="javascript:;" rel="nofollow" class="v7-js-menu-layer-switch" title="" data-menu-layer="js-menu-lang">Idiomas</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</aside>
+
+            </div>
+
+        
+
+
+<div id="js-menu-lang" class="v7-menu-mobile__tip || v7-tooltip v7-tooltip--lang v7-tooltip--arrow-top v7-tooltip--arrow-right">
+  
+    <ul class="v7-tooltip__list">
+            <li>
+                <a href="/en/" title="" target="">
+                    <i class="v7-tooltip__icon || v7-i v7-i--xs v7-i--lang-en || v7-u-color-white"></i>
+                </a>
+                <a href="/en/" title="" target="">English</a>
+            </li>
+            <li>
+                <a href="/es/" title="" target="">
+                    <i class="v7-tooltip__icon || v7-i v7-i--xs v7-i--lang-es || v7-u-color-white"></i>
+                </a>
+                <a href="/es/" title="" target="">Español</a>
+            </li>
+            <li>
+                <a href="/it/" title="" target="">
+                    <i class="v7-tooltip__icon || v7-i v7-i--xs v7-i--lang-it || v7-u-color-white"></i>
+                </a>
+                <a href="/it/" title="" target="">Italiano</a>
+            </li>
+            <li>
+                <a href="/fr/" title="" target="">
+                    <i class="v7-tooltip__icon || v7-i v7-i--xs v7-i--lang-fr || v7-u-color-white"></i>
+                </a>
+                <a href="/fr/" title="" target="">Français</a>
+            </li>
+            <li>
+                <a href="/de/" title="" target="">
+                    <i class="v7-tooltip__icon || v7-i v7-i--xs v7-i--lang-de || v7-u-color-white"></i>
+                </a>
+                <a href="/de/" title="" target="">Deutsch</a>
+            </li>
+            <li>
+                <a href="/el/" title="" target="">
+                    <i class="v7-tooltip__icon || v7-i v7-i--xs v7-i--lang-el || v7-u-color-white"></i>
+                </a>
+                <a href="/el/" title="" target="">Ελληνικά</a>
+            </li>
+            <li>
+                <a href="/pt/" title="" target="">
+                    <i class="v7-tooltip__icon || v7-i v7-i--xs v7-i--lang-pt || v7-u-color-white"></i>
+                </a>
+                <a href="/pt/" title="" target="">Português</a>
+            </li>
+    </ul>
+    <a href="javascript:;" rel="nofollow" class="v7-i v7-i--cross v7-i--xxxs || v7-js-menu-lang-close"></a>
+</div>
+
+        
+<!-- User Home Resume -->
+<div class="v7-page-home__content">
+  
+  <div>
+      <div class="v7-page-home__header">
+          <!--Cancel or Reschedule flight status for loggedin Users -->
+          <app-cancel-reschdule-flights class="v7-u-iblock"></app-cancel-reschdule-flights>
+
+
+          <!-- Carousel -->
+          <div class="v7-ng v7-ng--app-carousel-banner">
+
+              <div id="defaultCarousalBanner" class="v7-home-slider || v7-slider flickity-enabled" tabindex="0">
+                  
+              <div class="flickity-viewport" style="height: 477px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translateX(0%);"><div class="v7-home-slider__item v7-home-slider__item--destination is-selected" style="position: absolute; left: 0px; transform: translateX(0%);">
+<div class="v7-vichy v7-vichy--sm v7-vichy--top-right || v7-u-hide-sm"></div>
+<div class="v7-vichy v7-vichy--md v7-vichy--top-right || v7-u-visible-sm v7-u-hide-md"></div>
+<div class="v7-vichy v7-vichy--md v7-vichy--bottom-right || v7-u-visible-md v7-u-hide-lg"></div>
+<div class="v7-vichy v7-vichy--lg v7-vichy--bottom-right || v7-u-visible-lg"></div>
+<div class="v7-home-slider__inner">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<div class="v7-home-slider__content col-xs-10 col-sm-9 col-md-5 col-lg-7 || v7-u-ml-md-25 v7-u-pt-md-0">
+<h1 class="v7-home-slider__title">DESCUBRE TODA LA MAGIA DE LAS ISLAS BALEARES</h1>
+<button class="v7-home-slider__btn || v7-btn" onclick="window.location.href='/es/ofertas-vuelos/islas-baleares/';"><a href="/es/ofertas-vuelos/lanzarote/" title="Ofertas Vuelos"><span class="v7-u-hide-sm">Desde 9€</span></a> <a href="/es/ofertas-vuelos/islas-baleares/" title="Ofertas Vuelos"><span class="v7-u-visible-sm">Desde 9€</span></a></button></div>
+<div class="v7-home-slider__legal v7-u-ml-md-25 v7-u-visible-md">Precio de ida, con impuestos incluidos y plazas limitadas sujetas a disponibilidad.</div>
+</div>
+</div>
+</div>
+</div>
+<div class="v7-home-slider__bg">&nbsp;
+<div class="v7-header-bg v7-header-bg--red-brown-light">&nbsp; &nbsp;<span class="v7-header-bg__img v7-header-bg__img--cover || v7-js-imagecover" style="background-size: cover; background-image: url('https://static.volotea.com/assets/img/stations/ibz_4-1.jpg'); background-position: center center;" data-image="https://static.volotea.com/assets/img/stations/ibz_4-1.jpg"></span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+</div></div></div><ol class="flickity-page-dots"><li class="dot is-selected" aria-label="Page dot 1" aria-current="step"></li></ol></div>
+
+        <app-carousel-banner style="position: unset">
+        </app-carousel-banner>
+      </div>
+      <div class="v7-ng v7-ng--search-flow-wrapper">
+        <search-flow-wrapper data-attribute-bookingurl="https://book.volotea.com/"></search-flow-wrapper>
+        
+            <div class="container">
+                <div class="v7-sf__footer || v7-flex || v7-u-hide-md">
+                    <div class="v7-sf__tools">
+                            <a href="/es/tu-reserva/" class="v7-sf__tool">
+                                    <i class="v7-sf__tool-icon || v7-i v7-i--departure v7-i--xs"></i>
+                                <span class="v7-sf__tool-text || v7-small-text">Tu reserva</span>
+                            </a>
+                            <a href="/es/tu-reserva/check-in-online/" class="v7-sf__tool">
+                                    <i class="v7-sf__tool-icon || v7-i v7-i--passwallet v7-i--xs"></i>
+                                <span class="v7-sf__tool-text || v7-small-text">Check-in online</span>
+                            </a>
+                            <a href="/es/estado-de-tu-vuelo/" class="v7-sf__tool">
+                                    <i class="v7-sf__tool-icon || v7-i v7-i--aircraft-ok v7-i--xs"></i>
+                                <span class="v7-sf__tool-text || v7-small-text">Estado de tu vuelo</span>
+                            </a>
+
+                    </div>
+                </div>
+            </div>
+
+
+
+
+      </div>
+    </div>
+    <!-- End Carousel -->
+    <!-- Search Wrapper End -->
+  </div>
+  <app-recent-search-wrapper class="v7-u-iblock" data-attribute-bookingurl="https://book.volotea.com/"></app-recent-search-wrapper>
+  
+
+
+        <div class="">
+                                
+    
+        
+               
+    <section class="v7-home-offer">
+        <app-best-offers data-campaign-viewlink="/es/ofertas-vuelos/" data-campaign-caption="Ver todas" data-campaign-contenttitle="NO TE PIERDAS NUESTRAS OFERTAS…" data-campaign-bestofferparameter="{&quot;originType&quot;:&quot;&quot;,&quot;origin&quot;:&quot;&quot;,&quot;destinationType&quot;:&quot;&quot;,&quot;destination&quot;:&quot;&quot;,&quot;fromDate&quot;:&quot;0001-01-01T00:00:00&quot;,&quot;toDate&quot;:0,&quot;offerForKids&quot;:&quot;&quot;,&quot;numberOfItems&quot;:5,&quot;offeredPriceRed&quot;:&quot;&quot;,&quot;offeredPriceGreen&quot;:&quot;&quot;,&quot;campaignName&quot;:&quot;ofertas-vuelos&quot;}" data-campaign-destinationpreposition="">
+        </app-best-offers>
+    </section>
+
+
+        
+
+
+
+                                
+    
+        
+               
+
+
+    <div>
+        <div class="v7-home-newsletter">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="v7-home-newsletter__inner">
+                            <h2 class="v7-section__title v7-section__title--lg">Únete a los que se enteran antes.</h2>
+                            <div class="v7-home-newsletter__form">
+                                <div class="v7-home-newsletter__input || v7-input-text v7-input-text--light v7-input-text--outer v7-input-text--icon">
+                                    <input id="home-newsletter_1" type="text" placeholder="Escribe tu e-mail" class="v7-input-text__input" value="">
+                                    <label for="home-newsletter_1" class="v7-input-text__label">
+                                        <i class="v7-i v7-i--email v7-i--xxs"></i>
+                                    </label>
+                                    <i class="v7-input-text__filled || v7-i v7-i--ok v7-i--xxs"></i>
+                                    <span class="v7-input-text__invalid">Incluye un correo electrónico válido</span>
+                                </div>
+                                <a href="/es/registrate/?newsletter=true&amp;emailRegister=" title="" class="v7-home-newsletter__btn || v7-btn v7-btn--secondary v7-btn--sm" onclick="submitNewsletterEmail(event, 'home-newsletter_1');">Suscríbete</a>
+                                <div class="v7-u-block v7-u-block--fw | v7-u-visible-md">
+                                    <div class="v7-input-text v7-input-text--light v7-input-text--xl v7-input-text--outer v7-input-text--btn">
+                                        <input id="home-newsletter_2" type="text" placeholder="Escribe tu e-mail" class="v7-input-text__input" value="">
+                                        <label for="home-newsletter_2" class="v7-input-text__label">
+                                            <i class="v7-i v7-i--email v7-i--xxs"></i>
+                                        </label>
+
+                                        <a href="/es/registrate/?newsletter=true&amp;emailRegister=" title="" class="v7-input-text__btn || v7-btn v7-btn--secondary v7-btn--sm" onclick="submitNewsletterEmail(event, 'home-newsletter_2');">Suscríbete</a>
+                                    </div>
+                                    <span class="v7-input-text__invalid">Incluye un correo electrónico válido</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+        
+
+
+
+                                
+    
+        
+               
+
+
+    <div>
+        <section class="v7-home-map">
+            <div class="v7-home-map__image">
+                <img src="https://media.volotea.com/media/1011/volotea-destinations.png" alt="volotea-destinations.png">
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 | col-sm-5 | col-lg-8">
+                            <h2 class="v7-section__heading">A DÓNDE VOLAMOS</h2>
+                    </div>
+                </div>
+                <div class="v7-home-destinations-map || row">
+                    <div class="col-xs-12 col-sm-4">
+                        <div class="v7-home-map__content">
+                            <div class="row">
+                                <div class="col-xs-10 col-md-12 col-lg-11">
+                                        <h3 class="v7-section__title v7-section__title--xl">DESCUBRE NUESTROS VUELOS DIRECTOS ENTRE CIUDADES VOLOTEA</h3>
+                                    <p class="v7-home-map__msg" style="display: block;">Ya volamos en <strong>16 países</strong> y <strong>100 ciudades europeas</strong>. Más de 370 rutas directas a los mejores precios.</p>
+                                </div>
+                            </div>
+                                <a href="/es/destinos/" class="v7-btn v7-btn--block v7-btn--md">Ver nuestro mapa de vuelos</a>
+                         </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+
+        
+
+
+
+                                
+    
+        
+               
+<div>
+        <section class="v7-home-service">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="v7-home-service__header">
+                                <div class="v7-home-service__title | v7-strapline-title v7-strapline-title--lg">NUESTROS SERVICIOS</div>
+                                                    </div>
+                        <div class="v7-home-service__inner">
+                                    <div class="v7-home-service__service v7-home-service__service--megavolotea become || v7-box">
+                                        <div class="v7-box__inner">
+                                            <div class="v7-home-service__item-header">
+                                                <i class="v7-home-service__icon || v7-i-vect v7-i-vect--lg || v7-box__i">
+                                                    <svg class="v7-i-vect__svg | v7-svg-megavolotea" viewBox="0 0 84 84">
+                                                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.volotea.com/assets/img/sprite.svg#svg-megavolotea"></use>
+                                                    </svg>
+                                                </i>
+                                                <div class="v7-home-service__description">
+                                                    <h2 class="v7-main-title v7-main-title--lg">MEGAVOLOTEA</h2>
+                                                    <p class="v7-home-service__msg">Estás ahorrando más de un 30% en tus viajes con tus mega ventajas:</p>
+                                                </div>
+
+                                            </div>
+
+                                            <div class="v7-u-visible-md">
+                                                <p class="v7-home-service__msg">Estás ahorrando más de un 30% en tus viajes con tus mega ventajas:</p>
+                                            </div>
+                                                <ul class="v7-home-service__list">
+                                                            <li class="v7-home-service__item">
+                                                                <span class="v7-i v7-i--ok-rounded v7-i--xxs || v7-u-color-brand-secondary"></span>
+
+                                                                <p class="v7-sub-title v7-sub-title--sm">
+                                                                    <strong>Descuentos en todos tus vuelos.</strong>
+                                                                </p>
+                                                            </li>
+                                                            <li class="v7-home-service__item">
+                                                                <span class="v7-i v7-i--ok-rounded v7-i--xxs || v7-u-color-brand-secondary"></span>
+
+                                                                <p class="v7-sub-title v7-sub-title--sm">
+                                                                    <strong>Tú y 3 acompañantes disfrutáis de las ventajas Megavolotea.</strong>
+                                                                </p>
+                                                            </li>
+                                                            <li class="v7-home-service__item">
+                                                                <span class="v7-i v7-i--ok-rounded v7-i--xxs || v7-u-color-brand-secondary"></span>
+
+                                                                <p class="v7-sub-title v7-sub-title--sm">
+                                                                    <strong>¡A partir del 2º año, ascenderás a Megavolotea Plus!</strong>
+                                                                </p>
+                                                            </li>
+                                                </ul>
+                                            <div class="v7-home-service__footer || ">
+<p class="v7-body-text v7-body-text--sm">¡Y mucho más por solo 49,99€ al año!</p>                                                                                                    <a href="/es/megavolotea/" class="v7-btn v7-btn--border v7-btn--secondary v7-btn--md" target="_blank" rel="noopener" onclick="MegaGTMPush(this)">Hazte Megavolotea </a>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="v7-home-service__service v7-home-service__service--flex || v7-box">
+                                        <div class="v7-box__inner">
+                                            <div class="v7-home-service__item-header">
+                                                <i class="v7-home-service__icon || v7-i-vect v7-i-vect--lg || v7-box__i">
+                                                    <svg class="v7-i-vect__svg | v7-svg-flex" viewBox="0 0 84 84">
+                                                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.volotea.com/assets/img/sprite.svg#svg-flex"></use>
+                                                    </svg>
+                                                </i>
+                                                <div class="v7-home-service__description">
+                                                    <h2 class="v7-main-title v7-main-title--lg">FLEX</h2>
+                                                    <p class="v7-home-service__msg">Contrata el plan Flex con tu reserva por si cambias de planes.</p>
+<p></p>
+<p class="v7-home-service__msg">Obtén el importe de tu reserva en crédito si un imprevisto te impide viajar.</p>
+                                                </div>
+                                                        <a href="/es/flex/" class="v7-flex__right || v7-i v7-i--next-arrow v7-i--xxs || v7-u-color-dark-40 v7-u-hide-sm" onclick="MegaGTMPush(this)"></a>
+
+                                            </div>
+
+                                            <div class="v7-u-visible-md">
+                                                <p class="v7-home-service__msg">Contrata el plan Flex con tu reserva por si cambias de planes.</p>
+<p></p>
+<p class="v7-home-service__msg">Obtén el importe de tu reserva en crédito si un imprevisto te impide viajar.</p>
+                                            </div>
+                                            <div class="v7-home-service__footer || v7-u-visible-sm">
+                                                                                                    <a href="/es/flex/" class="v7-btn v7-btn--border v7-btn--secondary v7-btn--md" onclick="MegaGTMPush(this)">Más sobre Flex </a>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="v7-home-service__service v7-home-service__service--combo || v7-box">
+                                        <div class="v7-box__inner">
+                                            <div class="v7-home-service__item-header">
+                                                <i class="v7-home-service__icon || v7-i-vect v7-i-vect--lg || v7-box__i">
+                                                    <svg class="v7-i-vect__svg | v7-svg-combo" viewBox="0 0 84 84">
+                                                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.volotea.com/assets/img/sprite.svg#svg-combo"></use>
+                                                    </svg>
+                                                </i>
+                                                <div class="v7-home-service__description">
+                                                    <h2 class="v7-main-title v7-main-title--lg">COMBO</h2>
+                                                    <p class="v7-home-service__msg">Packs de extras en un solo click y con un ahorro de hasta el 70%.</p>
+<p class="v7-home-service__msg">Ahorra y disfruta de todos nuestros servicios al mejor precio.</p>
+                                                </div>
+                                                        <a href="/es/combo/" class="v7-flex__right || v7-i v7-i--next-arrow v7-i--xxs || v7-u-color-dark-40 v7-u-hide-sm" onclick="MegaGTMPush(this)"></a>
+
+                                            </div>
+
+                                            <div class="v7-u-visible-md">
+                                                <p class="v7-home-service__msg">Packs de extras en un solo click y con un ahorro de hasta el 70%.</p>
+<p class="v7-home-service__msg">Ahorra y disfruta de todos nuestros servicios al mejor precio.</p>
+                                            </div>
+                                            <div class="v7-home-service__footer || v7-u-visible-sm">
+                                                                                                    <a href="/es/combo/" class="v7-btn v7-btn--border v7-btn--secondary v7-btn--md" onclick="MegaGTMPush(this)">Más sobre Combo </a>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="v7-u-pt-20 v7-u-hide" id="home-inspiration-space">&nbsp;</div>
+        </section>
+</div>                
+
+        
+
+
+
+                                
+    
+        
+               
+
+
+    <section class="v7-home-inspiration" id="home-inspiration">
+        <div class="container">
+            <header class="v7-section__header || row">
+                <div class="col-xs-8 | col-sm-7">
+                    <h2 class="v7-section__heading">INSPIRAMOS TU PRÓXIMO VIAJE</h2>
+                </div>
+                <div class="col-sm-7">
+                    <h3 class="v7-section__title v7-section__title--xl">TE CONTAMOS LO MEJOR DE LOS RINCONES MÁS AUTÉNTICOS DE NUESTROS DESTINOS</h3>
+                </div>
+            </header>
+        </div>
+
+            <app-inspiration></app-inspiration>
+        <div class="v7-u-mt-30 v7-u-mb-30 v7-u-tac v7-u-visible-md">
+            <p class="v7-u-mt-30 v7-u-mb-30 v7-u-tac v7-u-visible-md">Más experiencias como estas te esperan en <a title="" class="v7-link" href="https://volare.volotea.com/es/" target="_blank" rel="noopener">volare.volotea.com</a></p>
+        </div>
+    </section>
+
+
+
+
+        
+
+
+
+        </div>
+
+
+
+</div>
+
+
+
+        <!--------------------------Page content End-------------------->
+
+            <footer class="v7-footer">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <a href="/" title="Homepage Volotea" class="v7-footer__logo">
+                                <svg>
+                                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.volotea.com/assets/img/sprite.svg#svg-logo-text"></use>
+                                </svg>
+                            </a>
+                        </div>
+                        
+
+
+
+<div class="v7-footer-links || col-xs-12 | col-sm-6 col-sm-right | col-md-7 | col-lg-8 col-lg-offset-1">
+    <div class="row">
+                <nav class="col-xs-12 | col-md-3" itemscope="" itemtype="https://schema.org/Reservation">
+                    <ul class="v7-list-link">
+                        <li class="v7-list-link__title">
+                            <span itemprop="name mainEntityOfPage">VUELOS</span>
+                        </li>
+                                  <li class="v7-list-link__item" itemprop="url">
+                                        <a itemprop="url" href="/es/ofertas-vuelos/" rel="noopener noreferrer" title="Ofertas vuelos" target=""><span itemprop="name reservationFor">Ofertas vuelos</span></a>
+                                    </li>
+                                  <li class="v7-list-link__item" itemprop="url">
+                                        <a itemprop="url" href="/es/estado-de-tu-vuelo/" rel="noopener noreferrer" title="Estado de tu vuelo"><span itemprop="name reservationFor">Estado de tu vuelo</span></a>
+                                    </li>
+                                  <li class="v7-list-link__item" itemprop="url">
+                                        <a itemprop="url" href="/es/vuelos-directos/" rel="noopener noreferrer" title="Vuelos Directos"><span itemprop="name reservationFor">Vuelos Directos</span></a>
+                                    </li>
+                                    <li class="v7-list-link__item v7-list-link__item--separator"></li>
+                                  <li class="v7-list-link__item" itemprop="url">
+                                        <a itemprop="url" href="/es/agencias/" rel="noopener noreferrer" title="Agencias de Viajes"><span itemprop="name reservationFor">Agencias de Viajes</span></a>
+                                    </li>
+                                  <li class="v7-list-link__item" itemprop="url">
+                                        <a itemprop="url" href="https://groups.volotea.com/index.php" rel="noopener noreferrer" title="Grupos" target="_blank"><span itemprop="name reservationFor">Grupos</span></a>
+                                    </li>
+                    </ul>
+                </nav>
+                <nav class="col-xs-12 | col-md-3" itemprop="offers" itemscope="" itemtype="https://schema.org/Offer">
+                    <ul class="v7-list-link">
+                        <li class="v7-list-link__title">
+                            <span itemprop="name subjectOf">TU RESERVA</span>
+                        </li>
+                                  <li class="v7-list-link__item" itemprop="url">
+                                        <a itemprop="url" href="/es/tu-reserva/check-in-online/" rel="noopener noreferrer" title="Check-in online"><span itemprop="name itemOffered subjectOf">Check-in online</span></a>
+                                    </li>
+                                  <li class="v7-list-link__item" itemprop="url">
+                                        <a itemprop="url" href="/es/tu-reserva/" rel="noopener noreferrer" title="Gestionar tu reserva"><span itemprop="name itemOffered subjectOf">Gestionar tu reserva</span></a>
+                                    </li>
+                                  <li class="v7-list-link__item" itemprop="url">
+                                        <a itemprop="url" href="/es/tu-reserva/reenviar-confirmacion/" rel="noopener noreferrer" title="Reenviar email de confirmación" target=""><span itemprop="name itemOffered subjectOf">Reenviar email de confirmación</span></a>
+                                    </li>
+                                    <li class="v7-list-link__item v7-list-link__item--separator"></li>
+                                  <li class="v7-list-link__item" itemprop="url">
+                                        <a itemprop="url" href="/es/tu-reserva/asignar-asientos/" rel="noopener noreferrer" title="Seleccionar asientos"><span itemprop="name itemOffered subjectOf">Seleccionar asientos</span></a>
+                                    </li>
+                                  <li class="v7-list-link__item" itemprop="url">
+                                        <a itemprop="url" href="/es/tu-reserva/anadir-equipaje/" rel="noopener noreferrer" title="Añadir equipaje" target=""><span itemprop="name itemOffered subjectOf">Añadir equipaje</span></a>
+                                    </li>
+                                  <li class="v7-list-link__item" itemprop="url">
+                                        <a itemprop="url" href="/es/tu-reserva/embarque-prioritario/" rel="noopener noreferrer" title="Embarque prioritario" target=""><span itemprop="name itemOffered subjectOf">Embarque prioritario</span></a>
+                                    </li>
+                                  <li class="v7-list-link__item" itemprop="url">
+                                        <a itemprop="url" href="/es/tu-reserva/cambiar-vuelos/" rel="noopener noreferrer" title="Cambiar vuelos" target=""><span itemprop="name itemOffered subjectOf">Cambiar vuelos</span></a>
+                                    </li>
+                                  <li class="v7-list-link__item" itemprop="url">
+                                        <a itemprop="url" href="/es/tu-reserva/documentacion-para-el-vuelo/" rel="noopener noreferrer" title="Documentación para el vuelo" target=""><span itemprop="name itemOffered subjectOf">Documentación para el vuelo</span></a>
+                                    </li>
+                                  <li class="v7-list-link__item" itemprop="url">
+                                        <a itemprop="url" href="/es/tu-reserva/asistencia-especial/" rel="noopener noreferrer" title="Asistencia especial" target=""><span itemprop="name itemOffered subjectOf">Asistencia especial</span></a>
+                                    </li>
+                                  <li class="v7-list-link__item" itemprop="url">
+                                        <a itemprop="url" href="/es/tu-reserva/gestionar-factura/" rel="noopener noreferrer" title="Gestionar factura" target=""><span itemprop="name itemOffered subjectOf">Gestionar factura</span></a>
+                                    </li>
+                                    <li class="v7-list-link__item v7-list-link__item--separator"></li>
+                                  <li class="v7-list-link__item" itemprop="url">
+                                        <a itemprop="url" href="https://hotels.volotea.com/?label=pagefooter-link-942942-click" rel="noopener noreferrer" title="Hoteles" target="_blank"><span itemprop="name itemOffered subjectOf">Hoteles</span></a>
+                                    </li>
+                                  <li class="v7-list-link__item" itemprop="url">
+                                        <a itemprop="url" href="https://coches.volotea.com/?adplat=servicestab&amp;adcamp=homepage&amp;preflang=es" rel="noopener noreferrer" title="Coches de alquiler" target="_blank"><span itemprop="name itemOffered subjectOf">Coches de alquiler</span></a>
+                                    </li>
+                    </ul>
+                </nav>
+                <nav class="col-xs-12 | col-md-3">
+                    <ul class="v7-list-link">
+                        <li class="v7-list-link__title">
+                            DESCUBRE
+                        </li>
+                                  <li class="v7-list-link__item">
+                                        <a href="/es/destinos/" rel="noopener" title="Dónde volamos">Dónde volamos</a>
+                                    </li>
+                                  <li class="v7-list-link__item">
+                                        <a href="/es/nuestros-aviones/" rel="noopener" title="Volar con Volotea">Volar con Volotea</a>
+                                    </li>
+                                  <li class="v7-list-link__item">
+                                        <a href="/es/megavolotea/" rel="noopener" title="Megavolotea">Megavolotea</a>
+                                    </li>
+                                  <li class="v7-list-link__item">
+                                        <a href="/es/flex/" rel="noopener" title="Flex">Flex</a>
+                                    </li>
+                                  <li class="v7-list-link__item">
+                                        <a href="/es/combo/" rel="noopener" title="Combo">Combo</a>
+                                    </li>
+                                  <li class="v7-list-link__item">
+                                        <a href="/es/entretenimiento-a-bordo/" rel="noopener" title="Entretenimiento a bordo">Entretenimiento a bordo</a>
+                                    </li>
+                                  <li class="v7-list-link__item">
+                                        <a href="/es/tu-reserva/catering-a-bordo/" rel="noopener" title="Menú a bordo">Menú a bordo</a>
+                                    </li>
+                                  <li class="v7-list-link__item">
+                                        <a href="/es/best-price/" rel="noopener" title="Mejor precio">Mejor precio</a>
+                                    </li>
+                                    <li class="v7-list-link__item v7-list-link__item--separator"></li>
+                                  <li class="v7-list-link__item">
+                                        <a href="https://volare.volotea.com/es/" rel="noopener" title="Volare Magazine" target="_blank">Volare Magazine</a>
+                                    </li>
+                                    <li class="v7-list-link__item v7-list-link__item--separator"></li>
+                                  <li class="v7-list-link__item">
+                                        <a href="/es/movil/" rel="noopener" title="Acceso móvil">Acceso móvil</a>
+                                    </li>
+                                  <li class="v7-list-link__item">
+                                        <a href="/es/registrate/" rel="noopener" title="Newsletter" target="">Newsletter</a>
+                                    </li>
+                    </ul>
+                </nav>
+                <nav class="col-xs-12 | col-md-3">
+                    <ul class="v7-list-link">
+                        <li class="v7-list-link__title">
+                            VOLOTEA
+                        </li>
+                                  <li class="v7-list-link__item">
+                                        <a href="/es/sobre-volotea/" rel="noopener" title="Sobre Volotea" target="">Sobre Volotea</a>
+                                    </li>
+                                  <li class="v7-list-link__item">
+                                        <a href="/es/informacion/" rel="noopener" title="Información antes de volar">Información antes de volar</a>
+                                    </li>
+                                  <li class="v7-list-link__item">
+                                        <a href="/es/muy-recomendada/" rel="noopener" title="Vuestra opinión" target="">Vuestra opinión</a>
+                                    </li>
+                                  <li class="v7-list-link__item">
+                                        <a href="/es/familias/" rel="noopener" title="Viajar en familias" target="_top">Viajar en familias</a>
+                                    </li>
+                                  <li class="v7-list-link__item">
+                                        <a href="/es/contacto/" rel="noopener" title="Centro de ayuda">Centro de ayuda</a>
+                                    </li>
+                                  <li class="v7-list-link__item">
+                                        <a href="/es/sala-de-prensa/" rel="noopener" title="Sala de prensa">Sala de prensa</a>
+                                    </li>
+                                  <li class="v7-list-link__item">
+                                        <a href="/es/responsabilidad-social-corporativa/" rel="noopener" title="Responsabilidad Social Corporativa">Responsabilidad Social Corporativa</a>
+                                    </li>
+                                  <li class="v7-list-link__item">
+                                        <a href="/es/sostenibilidad/" rel="noopener" title="Sostenibilidad">Sostenibilidad</a>
+                                    </li>
+                                  <li class="v7-list-link__item">
+                                        <a href="https://jobs.volotea.com/" rel="noopener" title="Trabaja con nosotros" target="_blank">Trabaja con nosotros</a>
+                                    </li>
+                                    <li class="v7-list-link__item v7-list-link__item--separator"></li>
+                                  <li class="v7-list-link__item">
+                                        <a href="/es/tarifas/" rel="noopener" title="Tabla de tarifas">Tabla de tarifas</a>
+                                    </li>
+                                  <li class="v7-list-link__item">
+                                        <a href="/es/condiciones-legales/condiciones-de-transporte/" rel="noopener" title="Condiciones de transporte">Condiciones de transporte</a>
+                                    </li>
+                                  <li class="v7-list-link__item">
+                                        <a href="/es/condiciones-legales/condiciones-de-uso/" rel="noopener" title="Condiciones de uso">Condiciones de uso</a>
+                                    </li>
+                                  <li class="v7-list-link__item">
+                                        <a href="/es/condiciones-legales/politica-de-privacidad/" rel="noopener" title="Política de privacidad">Política de privacidad</a>
+                                    </li>
+                                  <li class="v7-list-link__item">
+                                        <a href="/es/condiciones-legales/politica-de-cookies/" rel="noopener" title="Política de cookies">Política de cookies</a>
+                                    </li>
+                                    <li class="v7-list-link__item v7-list-link__item--separator"></li>
+                                  <li class="v7-list-link__item">
+                                        <a href="/es/mapa-web/" rel="noopener" title="Mapa del sitio">Mapa del sitio</a>
+                                    </li>
+                    </ul>
+                </nav>
+    </div>
+</div>
+<div class="col-xs-12 | col-sm-5 | col-md-4 | col-lg-3">
+    
+    <div class="v7-rows || v7-footer__social">
+        <div class="v7-cosl-xs-12">
+
+
+                <ul class="v7-footer__social-list">
+
+                        <li>
+                            <a href="https://www.facebook.com/Volotea" target="_blank" rel="noopener" title="" class="v7-btn-circle v7-btn-circle--md v7-btn-circle--brand || v7-i v7-i--facebook"></a>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/volotea" target="_blank" rel="noopener" title="" class="v7-btn-circle v7-btn-circle--md v7-btn-circle--brand || v7-i v7-i--twitter"></a>
+                        </li>
+                        <li>
+                            <a href="http://www.instagram.com/volotea" target="_blank" rel="noopener" title="" class="v7-btn-circle v7-btn-circle--md v7-btn-circle--brand || v7-i v7-i--instagram"></a>
+                        </li>
+                        <li>
+                            <a href="https://www.linkedin.com/company/volotea/" target="_blank" rel="noopener" title="" class="v7-btn-circle v7-btn-circle--md v7-btn-circle--brand || v7-i v7-i--linkedin"></a>
+                        </li>
+                </ul>
+                <a href="https://jobs.volotea.com" rel="noopener" target="_blank" title="Trabaja con nosotros" class="v7-btn v7-btn--border v7-btn--block v7-btn--sm">Trabaja con nosotros</a>
+        </div>
+    </div>
+
+        <div class="v7-footer__app">
+            <p class="v7-body-content">Descarga Volotea App para iOS y Android</p>
+            <ul class="v7-flex || v7-u-mt-20">
+
+                        <li class="">
+                            <a href="https://itunes.apple.com/app/apple-store/id635331043?mt=8" target="_blank" rel="noopener">
+                                <img src="https://static.volotea.com/assets/img/app/appstorebadgees-2x.png " alt="" title="">
+                            </a>
+                        </li>
+                        <li class="v7-flex__right">
+                            <a href="https://play.google.com/store/apps/details?id=com.volotea.droid&amp;utm_source=newsletter&amp;utm_campaign=V7Newsletters2019&amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1" target="_blank" rel="noopener">
+                                <img src="https://static.volotea.com/assets/img/app/googleplaybadgeeswhite-2x.png" alt="" title="">
+                            </a>
+                        </li>
+                        <li class="v7-flex__right">
+                            <a href="https://appgallery.huawei.com/#/app/C102463901" target="_blank" rel="noopener">
+                                <img src="https://media.volotea.com/media/2410/app-huawei_white_es.png" alt="" title="">
+                            </a>
+                        </li>
+            </ul>
+        </div>
+        <div class="v7-footer__badge v7-footer__badge--voloterra" style="border-top: 1px solid #57393a;padding: 30px 0;">
+            <img src="https://media.volotea.com/media/2606/en-wta-badge.png" alt="" style="width: 285px;">
+        </div>
+
+</div>
+
+
+
+
+    <script>
+        var umbracoVarsChatbot = {
+            InterfaceTitle: 'Asistente de Volotea',
+            ChatTitle: 'Ayuda',
+            CloseChatText: 'Gracias por contactar con nosotros! &#191;Quieres cerrar sesi&#243;n?',
+            ChatRoom: '1',
+            ChatSurveys: '2',
+            LazyloadChatSDKS: 'True',
+            AutoLoadChatUI: 'False',
+            AutoOpenChatWindow: 'True',
+            DelayTime: '500',
+            DomainKey: 'eyJ0eXBlIjoiSldUIiwiYWxnIjoiUlMyNTYifQ.eyJwcm9qZWN0Ijoidm9sb3RlYV9jaGF0Ym90X2VzIiwiZG9tYWluX2tleV9pZCI6IkJXX0dJTVN2QVBJanZSNlVzMTF3ZVE6OiJ9.dcQfoGJ52tDS7hMB4gWBnhSKejKbYQTxa6u4P9Sv5l2BLZ3XTQfzsZQIDa-e6Nqem8rw7HvMKH0wP1P9Luyvfw',
+            InbentaKey: 'XWRu9UZ7VvoZORzDT09zfgXfuqSclO2CV/lnLUkRS70=',
+            ChatCulture: 'es',
+            RelatedContentTitle: 'Algunos temas que pueden interesarte:',
+        }
+            document.addEventListener('DOMContentLoaded',
+                function() {
+                    if (typeof chatbot !== 'undefined') { chatbot.init(umbracoVarsChatbot); }
+                },
+                false);
+    </script>
+
+
+
+
+                    </div>
+                </div>
+                <i class="v7-footer__vichy">
+                    <svg>
+                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.volotea.com/assets/img/sprite.svg#svg-vichy-corner"></use>
+                    </svg>
+                </i>
+            </footer>
+
+    </div>
+    <megavolotea-svg class="v7-u-hide"></megavolotea-svg>
+    <app-newsletter-popup></app-newsletter-popup>
+    <!--------------------------Footer Widget End-------------------->
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.2.4/ScrollToPlugin.min.js"></script>
+
+    <!--------------------------Flight status search popup Widget End-------------------->
+<script src="https://assets.volotea.com/assets/angular/prod.99a758aa15c27832.environment.js" type="text/javascript"></script><script src="https://assets.volotea.com/assets/angular/home/prod.a025041dfd6fd34a.home.js" type="text/javascript"></script>
+    <script>
+        $(window).scroll(function () {
+
+            if ($(this).scrollTop()) {
+                $('#toTop').fadeIn();
+            } else {
+                $('#toTop').fadeOut();
+            }
+        });
+
+        $("#toTop").click(function () {
+            $("html, body").animate({ scrollTop: 0 }, 1000);
+        });
+    </script>
+    <script>
+
+            document.addEventListener('DOMContentLoaded',
+                function() {
+                    // regarding journey info base on search
+                    var flightSearch = 'True' == 'True'
+                        ? null
+                        : JSON.parse(''); //
+                    var isMega = 'False';
+                    var userInfo =
+                        sessionStorage.getItem("userData") == null || sessionStorage.getItem("userData") == ''
+                            ? null
+                            : JSON.parse(sessionStorage.getItem("userData"));
+
+                    var cultureName = 'es-ES';
+                    var pageName = 'home';
+                    var cultureNodeTitle = 'Vuelos baratos, ofertas y billetes de avi&#243;n a Europa';
+                    if (typeof addPageEvent === "function") {
+                        addPageEvent(flightSearch, isMega, userInfo, cultureName, pageName, cultureNodeTitle);
+                    }
+                },
+                false);
+    </script>
+
+<script async="" type="text/plain" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&amp;ns=1&amp;cb=1710406932" class="optanon-category-C0003 "></script>
+
+
+<iframe height="0" width="0" style="display: none; visibility: hidden;" data-src="//10725967.fls.doubleclick.net/activityi;src=10725967;type=counter;cat=homes0;ord=9838028865509;gtm=2wg970;auiddc=1862523441.1662917198;u23=https%3A%2F%2Fwww.volotea.com%2Fes%2F;~oref=https%3A%2F%2Fwww.volotea.com%2Fes%2F?" class="optanon-category-C0004 ot-vscat- "></iframe><script type="text/javascript" id="">var referrer=document.referrer;-1<referrer.indexOf("secure")&&Object.defineProperty(document,"referrer",{get:function(){return null}});</script><div style="display: none; visibility: hidden;">
+<script>!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","//connect.facebook.net/en_US/fbevents.js");fbq("init","517207851772136");fbq("track","PageView");</script>
+<noscript></noscript>
+</div>
+<script type="text/javascript" id="">(function(a,c,e,f,d,b){a.hj=a.hj||function(){(a.hj.q=a.hj.q||[]).push(arguments)};a._hjSettings={hjid:1574258,hjsv:6};d=c.getElementsByTagName("head")[0];b=c.createElement("script");b.async=1;b.src=e+a._hjSettings.hjid+f+a._hjSettings.hjsv;d.appendChild(b)})(window,document,"https://static.hotjar.com/c/hotjar-",".js?sv\x3d");</script>
+
+
+<script type="text/javascript" id="">var userId=google_tag_manager["GTM-PHF35LV"].macro(12)||null;window.hj("identify",userId,{RoleCode:google_tag_manager["GTM-PHF35LV"].macro(13),"Last Search":google_tag_manager["GTM-PHF35LV"].macro(14),"Last Booking":google_tag_manager["GTM-PHF35LV"].macro(15),Departure:google_tag_manager["GTM-PHF35LV"].macro(16),Arrival:google_tag_manager["GTM-PHF35LV"].macro(17),"Departure Date":google_tag_manager["GTM-PHF35LV"].macro(19),"Visits no purchase":google_tag_manager["GTM-PHF35LV"].macro(20),"Is Mobile":google_tag_manager["GTM-PHF35LV"].macro(21),PNR:google_tag_manager["GTM-PHF35LV"].macro(22)});</script>
+<script type="text/javascript" id="">function getParameterByName(a){a=a.replace(/[\[]/,"\\[").replace(/[\]]/,"\\]");a=new RegExp("[\\?\x26]"+a+"\x3d([^\x26#]*)");a=a.exec(location.search);return null===a?"":decodeURIComponent(a[1].replace(/\+/g," "))}var cjeventid=getParameterByName("cje"),now=new Date,time=now.getTime(),expTime=time+31536E6;now.setTime(expTime);cjeventid&&(document.cookie="cje\x3d"+cjeventid+"; expires\x3d"+now.toGMTString()+"; path\x3d/; domain\x3d."+location.hostname.replace(/^www\./i,""));</script><script type="text/javascript" id="" src="https://s.marvellousmachine.net"></script><div style="display:none">
+  
+  
+<img src="https://secure.adnxs.com/seg?add=26113375&amp;t=2" width="1" height="1">
+
+
+
+<img src="https://secure.adnxs.com/seg?add=26056670&amp;t=2" width="1" height="1">
+
+  
+<img src="https://esvoloteafrancia1.solution.weborama.fr/fcgi-bin/dispatch.fcgi?a.A=co&amp;a.si=7929&amp;a.cp=2&amp;a.ct=d&amp;a.re=__REVENUE__&amp;a.cid=__CLIENT_IDENTIFIER__&amp;a.iid=__INVOICE_IDENTIFIER__&amp;a.inu=__ITEMS_NUMBER__&amp;a.isc=__IS_CLIENT__&amp;a.opt=__OPTIONAL_PARAMETERS__&amp;gdpr=${GDPR}&amp;gdpr_consent=${GDPR_CONSENT_284}" width="1" height="1">  
+  
+</div><script type="text/javascript" id="">var script=document.createElement("script");script.async=!0;script.src="https://client.lunio.ai/3H32klVuACpm5ln1KPB854RszMbAT2tnbF8cFwvc.js";document.head.appendChild(script);</script><script type="text/plain" id="" src="//dynamic.criteo.com/js/ld/ld.js?a=47747" class="optanon-category-C0004 "></script></body></html>
